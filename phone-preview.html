@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sparks — Phone preview</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:#102f47;color:#fff;font:16px system-ui,sans-serif}.toolbar{position:sticky;z-index:2;top:0;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;padding:12px;background:rgba(10,45,61,.96);box-shadow:0 8px 24px rgba(0,0,0,.25)}.toolbar strong{margin-right:8px}.toolbar button,.toolbar a{min-height:42px;padding:9px 14px;border:0;border-radius:999px;background:#dff3e8;color:#123e53;font:inherit;font-weight:800;text-decoration:none;cursor:pointer}.toolbar button[aria-pressed="true"]{background:#ffd56a}.preview-shell{width:100%;padding:22px;overflow:auto;text-align:center}.device{display:inline-block;padding:12px;border-radius:34px;background:#111;box-shadow:0 18px 48px rgba(0,0,0,.42)}.device::before{content:"";display:block;width:84px;height:7px;margin:0 auto 9px;border-radius:999px;background:#444}.device iframe{display:block;border:0;border-radius:22px;background:#fff}.note{max-width:720px;margin:0 auto 20px;padding:0 16px;color:#dff7f3;text-align:center}
+  </style>
+</head>
+<body>
+  <nav class="toolbar" aria-label="Phone preview sizes">
+    <strong>Sparks phone preview</strong>
+    <button type="button" data-size="390,844" aria-pressed="true">390 × 844</button>
+    <button type="button" data-size="430,932" aria-pressed="false">430 × 932</button>
+    <button type="button" data-size="844,390" aria-pressed="false">Landscape</button>
+    <a href="./?demo=1" target="_blank" rel="noopener">Open full size ↗</a>
+  </nav>
+  <p class="note">This frame uses the real app at an actual phone viewport width. On a phone, open the normal Sparks link instead of this preview page.</p>
+  <main class="preview-shell"><div class="device" id="device"><iframe id="preview" title="Sparks phone preview" src="./?demo=1" width="390" height="844"></iframe></div></main>
+  <script>
+    const frame=document.getElementById('preview');
+    document.querySelectorAll('[data-size]').forEach(button=>button.onclick=()=>{const[width,height]=button.dataset.size.split(',').map(Number);frame.width=width;frame.height=height;document.querySelectorAll('[data-size]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)))});
+  </script>
+</body>
+</html>

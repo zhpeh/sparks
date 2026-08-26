@@ -1,0 +1,2738 @@
+{
+  "format": "sparks-static-hosting-v1",
+  "createdAt": "2026-08-26T01:51:05.781Z",
+  "entrypoint": "index.html",
+  "narrationProfile": "parent-v4",
+  "counts": {
+    "audio": 430,
+    "images": 102,
+    "videos": 6,
+    "files": 544
+  },
+  "pagination": {
+    "pageImageReferences": 60,
+    "uniquePageImages": 52,
+    "fullRoutePages": 12,
+    "quickRoutePages": {
+      "ocean": 11,
+      "otherStories": 10
+    }
+  },
+  "files": [
+    {
+      "path": "assets/audio/parent-v4/cloud_b1_context_choices_v10.mp3",
+      "bytes": 134205,
+      "sha256": "c4e08df050008c91d754465184ee420e89f4bded403705bc1d8c26ec7320f5ba"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b1_context_v10.mp3",
+      "bytes": 187745,
+      "sha256": "ef92fa6b21bda258f7483495c15017f00d339a3c0519f0fc9e91a120ef4caca1"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b1_context_young_v4.mp3",
+      "bytes": 132522,
+      "sha256": "53cf4e1a1e03f4da0b4003c388436716ff66c33c10f8bd9930be59ce8eaa9ce3"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b1_v9.mp3",
+      "bytes": 287165,
+      "sha256": "be2b959a39d2f1ead36f63999cbd677e199035b57e079206cfdc8e66a3b7be8e"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b1_young_v3.mp3",
+      "bytes": 145144,
+      "sha256": "f1a2642afe08a3475630195e172a111e9075cde70fb443f04cabfc49ac248e72"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2a_choices_v9.mp3",
+      "bytes": 106269,
+      "sha256": "d4384e8c5d8b5589a42973113485b7b9d77c044f90a7f615d89e7a1bb2d5a2ee"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2a_v9.mp3",
+      "bytes": 139681,
+      "sha256": "66013ba6eadb55b60f226c058d5cfa3e436cb61ba5751c89f976b841c13e5ffb"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2a_young_v3.mp3",
+      "bytes": 71516,
+      "sha256": "2d0cfd9357a6b41f3487efb262788da5d29df046e39dbbffe1cb65e5d405d0bf"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2b_choices_v9.mp3",
+      "bytes": 112125,
+      "sha256": "6b7eb9e94c91e2ea85145f3f6d110b6d1075483458f52b2dcbf34e382e8dfff2"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2b_v9.mp3",
+      "bytes": 174735,
+      "sha256": "e73c2899445519405becfbbc1773b8aaf782ad7c8dd63a8b09e6ce0d354ec634"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b2b_young_v3.mp3",
+      "bytes": 79346,
+      "sha256": "71db395b6c0e8d4ee03f872fc638de1c7fa8addbd81fb9273701b1ff9ff57b7a"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b3_choices_v9.mp3",
+      "bytes": 117933,
+      "sha256": "1b8033a05bd88400062b685bc85c145b238d1867a021d32bd93720f77986811d"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b3_v11.mp3",
+      "bytes": 246187,
+      "sha256": "a7a7e118d8b29f23d714e8e84afa5ac5fc2ab2258b03d69c2ee3f5f93bf5662f"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b3_young_v4.mp3",
+      "bytes": 130976,
+      "sha256": "2271b2a792dc3628ff660082f45571d052bd1486c3445a3154d5f6c4c243089f"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b4_choices_v9.mp3",
+      "bytes": 108045,
+      "sha256": "a5b9e2757d928f7fff18154bc850737400fb096f8f02edc84db929960eb9b1f3"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b4_v9.mp3",
+      "bytes": 213734,
+      "sha256": "dbe93c8600411790293f6c927229c694970fc0692a34f9b74fc0895a1d5ef1d3"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b4_young_v3.mp3",
+      "bytes": 121154,
+      "sha256": "51c47ee0a794469ec84d49b5cb7fc20edfa6776d34036f45fa36f9c3ed265e6c"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b5_choices_v9.mp3",
+      "bytes": 120117,
+      "sha256": "ff4fda50656e9e06d1c911ae49c34d531d8497c1477319ed59889eaa18158b59"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b5_v10.mp3",
+      "bytes": 190650,
+      "sha256": "4d67e6b998d90bf3eefff4acf7f821cf6180a1fe25732f042627e0ec69ff141c"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b5_young_v3.mp3",
+      "bytes": 123011,
+      "sha256": "42ef230628d9cdc07e43023ab86e2bd677555328ead06e67778a9004edc97f26"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b6_choices_v9.mp3",
+      "bytes": 126741,
+      "sha256": "e657046266dacd003fddb81b8d1a6f517b8d1cbb49e2ee019d8d7783d1d25b46"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b6_v9.mp3",
+      "bytes": 142550,
+      "sha256": "b5a2017d34565bfc52c08588b8f75db897eae363b06a62925bb534441e7da172"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_b6_young_v3.mp3",
+      "bytes": 132410,
+      "sha256": "a47c235abb0a39d5b6aab9515f49a62efacbfc64532282f51f1c306ec47c47ee"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_emo_excited.mp3",
+      "bytes": 33309,
+      "sha256": "d3d884ed8e21f9a3db14323c65f70df00f7d5288389a7261c11206bf3ddc8ac7"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_emo_proud.mp3",
+      "bytes": 32397,
+      "sha256": "f3a7298be19bed23c2ca04154d51d385ec4378048bb53c77bfad804450f55049"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_emo_sleepy.mp3",
+      "bytes": 41013,
+      "sha256": "40c43559bb91cd07d9b414acf3dd7e48a3f8c0be6c6d2087ac1d0d4d2e8d2ff5"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_ending_v9.mp3",
+      "bytes": 208605,
+      "sha256": "3f8aaaa921b202fbdb8d7316fe1cdb08400c981ade436d055ad8dd1be4f603ba"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_ending_young_v3.mp3",
+      "bytes": 131432,
+      "sha256": "f29072f2b82360c56b4078df8017d4790710b255811cc33997436135001f1f77"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_mission_1_v1.mp3",
+      "bytes": 50637,
+      "sha256": "5730c22994c6c032392b6689457c4f4cb42f676f7cd6de9b9d5177ff1afa3b02"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_mission_2_v1.mp3",
+      "bytes": 42957,
+      "sha256": "0ef3b5a06c935550d0dc1c567976166237de3ab96b985b99f01224d08388fa36"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_mission_3_v1.mp3",
+      "bytes": 40725,
+      "sha256": "51ec3b76b786b391a33d77a1fc8272e228fee5ec71a3503626808269877c022f"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_mission_choices_v1.mp3",
+      "bytes": 90021,
+      "sha256": "a206f9f2c3543bad490559b4ef7988fb31859be7021338e1e02cd0469a767821"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q1_correct_v4.mp3",
+      "bytes": 33021,
+      "sha256": "0cfd1d9a34d8d46d593cf60e6a773842cf2680838ba460f7428cca2f0eadf25d"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q1_help_v4.mp3",
+      "bytes": 29517,
+      "sha256": "17b976ab92ed4a41a4fa569c5f466a34eb70279a29a74cbe8cb93f56b7b3d62e"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q1_prompt_v4.mp3",
+      "bytes": 17565,
+      "sha256": "b250caabcecbd4ddd3a9b4fa5966880e24f9c6941eeeab6778060b0ce0b8e62d"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q1_prompt_young_v3.mp3",
+      "bytes": 20157,
+      "sha256": "f1de22f3a51bb7629b3cb7ff566438e8c71310cb5372d82adbcd85e12e24ab57"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q2_correct_v4.mp3",
+      "bytes": 42333,
+      "sha256": "67bd827ba9e0725cc28ee9bc38aee874c2a5fdca75dcdd54b2eb82948e57b935"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q2_help_v4.mp3",
+      "bytes": 54477,
+      "sha256": "e0fc14e4c8693cd44c5c4b5fe59f9163b409caabc96181cb51933a46785bbbf1"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q2_prompt_v4.mp3",
+      "bytes": 59901,
+      "sha256": "162d3dd395cf7bfeff509d7e11bef1e9ce52d88defb7d229b7f33e4a68455017"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q2_prompt_young_v3.mp3",
+      "bytes": 56421,
+      "sha256": "8c803c203633f7e594f9016a0cf2b24e4169664b0879bb170027f1a941c846be"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q3_correct_v4.mp3",
+      "bytes": 45885,
+      "sha256": "c2ee93ef945e602a72be3c887f41d3acc81409649745853c36a261317160c875"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q3_help_v4.mp3",
+      "bytes": 46605,
+      "sha256": "63fe23e55eb7060699515b2ca2141f2ae55247050e3e0f9a26534531d371afbd"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q3_prompt_v4.mp3",
+      "bytes": 33669,
+      "sha256": "514340f25e90fe51ec53ca7d9a56ad263f620008c1906f3137afc9c8102edd71"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q3_prompt_young_v3.mp3",
+      "bytes": 24621,
+      "sha256": "8d0e64825c18a817da180a776dffcfc63e761f7e0e905a8ba667d7ab5c5c1782"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q4_correct_v4.mp3",
+      "bytes": 31053,
+      "sha256": "fb0383843d73bc21fc7bbfaed2a1668cc9e0f2d5a831dfbb10305ded03579828"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q4_help_v4.mp3",
+      "bytes": 56949,
+      "sha256": "1bb1a1032cc65e317c86fbe31f3752d0300e95a3e31bca469db1f4fe97cacb7c"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q4_prompt_v4.mp3",
+      "bytes": 42549,
+      "sha256": "f421d33cc925785852b8f19820789db4d85025b4da5dbec3b0e966e5d034d2b3"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q4_prompt_young_v3.mp3",
+      "bytes": 40749,
+      "sha256": "e9946df0ca29bedbef3789f96b0775219d580bd6b8f69f937730afe86aee9ab4"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q5_correct_v4.mp3",
+      "bytes": 41181,
+      "sha256": "6d54044395000cbc059dc375a9a0bcd2d752b6160825c770be6a40cb61025e1f"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q5_help_v4.mp3",
+      "bytes": 35469,
+      "sha256": "5207c3732def0cca260e59ffb1e9709d2ae3d8a6fef82d4e7ecdfad1705904a8"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q5_prompt_v4.mp3",
+      "bytes": 29109,
+      "sha256": "452b0eab8e9d6251e67baa94764e80a16e5c740db4ee30f3fe09a8d5843220ee"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_q5_prompt_young_v3.mp3",
+      "bytes": 33501,
+      "sha256": "27430c56fec5e7a5077d219abe37ef3216c572a199bce44aba85bcd47a1387bb"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_quick_b2a_v3.mp3",
+      "bytes": 123183,
+      "sha256": "3c5bae24d50cc660e2db573003477a67c50dcccb0207612a3b0f2184bbed9185"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_quick_b2a_young_v2.mp3",
+      "bytes": 116181,
+      "sha256": "7e1ad4dca5318e0ef6675d0baad7311fed5a7013fdd9f6766e7ebaebfc9cf106"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_quick_b2b_v3.mp3",
+      "bytes": 122034,
+      "sha256": "0460c76643b9a4f50ebbffaeb5258cc3017a004a59f0cb05cae816a4d1af063e"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_quick_b2b_young_v2.mp3",
+      "bytes": 115279,
+      "sha256": "1befcad7f2fadf3eadedd2ebb8824dbdd07d0a89ffd24c8fc299a32b68455a8b"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_start_v9.mp3",
+      "bytes": 196290,
+      "sha256": "dd3b32dea2f28447a4af96c31b1785a3876c4fc24640c6c675af05bcc8957078"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_start_young_v3.mp3",
+      "bytes": 142874,
+      "sha256": "cf21695a2afd7135ef57e3d5be30faeeb24124feb7da0cab9e717a9903a7a457"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_video_recap_v9.mp3",
+      "bytes": 167061,
+      "sha256": "222cfd4bb12ef1c2b4bb69f2aea796227713b6e155c5cc6d21a50a5b22a49ec1"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_middle_response_1_v1.mp3",
+      "bytes": 37005,
+      "sha256": "0153f86cc926da54d9ab8f48e4da5f889919f671e7a8db33e824321d59b0f3d4"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_middle_response_2_v1.mp3",
+      "bytes": 55869,
+      "sha256": "7fa566361cc1f5c9bf17754665270980f39417a4e21787e62474a4a3176a5067"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_middle_v1.mp3",
+      "bytes": 101877,
+      "sha256": "740959a239f4e6195912da16b320ba8610b524e73bc32dda0e9c35fde4137062"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_older_response_1_v1.mp3",
+      "bytes": 42597,
+      "sha256": "dbad68f4e30261dc067b0a52b83c5b73245489c0803f0ec17184aca343c69e1d"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_older_response_2_v1.mp3",
+      "bytes": 45981,
+      "sha256": "f3394ded167e69e1b65993b9f09aaaab3e6f6b4792447140d7b9ac167f9568f6"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_older_v1.mp3",
+      "bytes": 97917,
+      "sha256": "4992f76142c3f0116af8887f321db093c7075b41c612f76fcf016e3f6fa5164a"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_young_response_1_v1.mp3",
+      "bytes": 31893,
+      "sha256": "0c5ac9930944eece426a6bc60ebc2890ccf189555f74ec61d67d66743863b151"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_young_response_2_v1.mp3",
+      "bytes": 29829,
+      "sha256": "1b23e6b5dde13b0dbbd72a55c5471531e7731d59db979c5d47e2eca80650e56f"
+    },
+    {
+      "path": "assets/audio/parent-v4/cloud_wonder_young_v1.mp3",
+      "bytes": 84909,
+      "sha256": "7971cd0cf939c832fff4b4cb32a8bc2568fe6ff5ba4c9863db2a9cbf6525d7e2"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b1_context_choices_v10.mp3",
+      "bytes": 111525,
+      "sha256": "766d659988de576f28295ae61824ba9eab7007661de71d9fc1280ab98d910e40"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b1_context_v11.mp3",
+      "bytes": 255047,
+      "sha256": "c39b67846a3d37f0c6db89f31a962a5f76746209caf2930d515655d09b14ccac"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b1_context_young_v6.mp3",
+      "bytes": 172287,
+      "sha256": "8f05b2876f97a87bf9694883d750340134d825a7675d27074005458159c4f587"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b1_v11.mp3",
+      "bytes": 425283,
+      "sha256": "b3f862bbfce5b6857df2157738ad440360f413f56852011b5e861c63717c8320"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b1_young_v6.mp3",
+      "bytes": 302453,
+      "sha256": "d8e9a4f24750cace27f4cadaa2a64739a9b25437bff68b013e56fcde5e9f09c0"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2a_choices_v10.mp3",
+      "bytes": 113853,
+      "sha256": "4b78f628fe883e03e76bfa2c7bcc93206cc877a9de6f101108e372d95e55dbc2"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2a_v10.mp3",
+      "bytes": 165539,
+      "sha256": "825e0a63e96f370b0923f56d2b30dce3e0137a90b1925bd6660a52a70cbae225"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2a_young_v5.mp3",
+      "bytes": 121025,
+      "sha256": "5781024a5205fa1dbcb79dfc232ccbdb1a2869943fd6461e6f3a04bbb4069cec"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2b_choices_v10.mp3",
+      "bytes": 96717,
+      "sha256": "1c2f6009a0bda6a1b8a4e31dfab19b296c5531cac6440385b9674eb794ffbe59"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2b_v10.mp3",
+      "bytes": 181219,
+      "sha256": "40979c46bc0f1a7aa1bbb843b3b1b4a55a316c985c646ab8ef4c3cb95066a4d3"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b2b_young_v5.mp3",
+      "bytes": 133924,
+      "sha256": "8df6ae4ecc89549dfbd004c2790bed36dd799ae2a3733751709934f07eabc325"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b3_choices_v10.mp3",
+      "bytes": 109821,
+      "sha256": "2cac1a32bba775257785f2f93d3abd4e7cf099a4165db129f233b4e5e968f1f8"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b3_v10.mp3",
+      "bytes": 296603,
+      "sha256": "15ad51a0b35b5572c74a8266290f713e2fddeab318f2ed133aec0f37a88e8663"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b3_young_v5.mp3",
+      "bytes": 216562,
+      "sha256": "63619c3e76214fb69df2077056214ba1a59e8e1547cc724ea6108f37434042b9"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b4_choices_v10.mp3",
+      "bytes": 106029,
+      "sha256": "4b84cd26a7ef400ba5e8fb1c65a947dc7ce4c7e4dd796cfe8de81d88d9f9ef8d"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b4_v11.mp3",
+      "bytes": 296513,
+      "sha256": "16ce4aa5f5af23ab8ad01586baf294a3d0c87059d4cde068515a1fdfadbc9eb5"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b4_young_v6.mp3",
+      "bytes": 191650,
+      "sha256": "841fbf9dcc5f533b6277033ec8680d82ccca9da8f3b2607dd20757ae472aaeda"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b5_choices_v10.mp3",
+      "bytes": 114597,
+      "sha256": "3bc230051b909fcdbb81e0b2f7ff7de08ea8a8b8ef5f9f6430255b5f62c77d5c"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b5_v10.mp3",
+      "bytes": 360022,
+      "sha256": "c7b1927a526cf551e349a856d8726e55324debe25fdeb8b9cd268153b774c41a"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b5_young_v5.mp3",
+      "bytes": 166328,
+      "sha256": "81487ad57375a07a3f2d84f2ddc16405b4878e1c0b2109b30f8c136034135a68"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b6_choices_v10.mp3",
+      "bytes": 105357,
+      "sha256": "647ec8d8edcb9f52ce6112c427d46bf766f409e3e8c611c6483660bf80ddbe91"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b6_v11.mp3",
+      "bytes": 286071,
+      "sha256": "7d2f0873c719d821b124e8c6f002744044bc1f81ece508063d17007843150b3f"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_b6_young_v6.mp3",
+      "bytes": 172091,
+      "sha256": "b62e873a3840dd8e01b0857b4bd267973e2181f70e021baa55c6397ebf054e09"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_emo_excited.mp3",
+      "bytes": 46749,
+      "sha256": "bc1e8e1dab190f4c520f861831044b5cae23e9e422eca5bedc08cbd1e50d4a87"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_emo_proud.mp3",
+      "bytes": 42525,
+      "sha256": "58c4f8ddbc13bddfcbb0786fb11642a3c2f4e178999dd2a4d140ba70742e534f"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_emo_sleepy.mp3",
+      "bytes": 37413,
+      "sha256": "b296b247c83ed5e240706fd6f453d9029a2cd57ad111a01e39109a6f9e9fa9cc"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_ending_celebration_v13.mp3",
+      "bytes": 286531,
+      "sha256": "5b5215a0c38bf80c4e72235326836badbe3b755f2f35e31cc2f4bc3aa53270cf"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_ending_celebration_young_v8.mp3",
+      "bytes": 243155,
+      "sha256": "38f3bad326681af9ce71c91cb745180485587884fee6876ab1cbf71eb456fa86"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_ending_reveal_v13.mp3",
+      "bytes": 217675,
+      "sha256": "7d4558689844d92eee1bbab921cce1c2316770af384fae58e918ac6b73ea033d"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_ending_reveal_young_v8.mp3",
+      "bytes": 142102,
+      "sha256": "e3a3e6ad8e7f2940f565e7daa79aaf80b00a3ff409a822f699f757c26034d5cf"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_mission_1_v1.mp3",
+      "bytes": 36837,
+      "sha256": "2aa251b0c81393420bfdc422b399782d6b28db4a4ef78251d217a8a0a180abe3"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_mission_2_v1.mp3",
+      "bytes": 33429,
+      "sha256": "efabf9ae005e6b8ea68fb1afe3252a7c0ef93be23178a07ed008c21f85ef31f2"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_mission_3_v1.mp3",
+      "bytes": 48189,
+      "sha256": "5b31cf1bc10203c72b4059aaa895e0e494b32e832a1db5f0b3bb9bb77945cb5c"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_mission_choices_v3.mp3",
+      "bytes": 170037,
+      "sha256": "2a64e58e286c10031bb2dd9cb79fb183b0548b06d8c3b31ffea61378ecf3b82d"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_mission_choices_young_v3.mp3",
+      "bytes": 159573,
+      "sha256": "2241607795e3f6f55c44d84fcaeade8ec16ac1be7f851626fbbba8434afe26e4"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_path_flowers_transition_v1.mp3",
+      "bytes": 102597,
+      "sha256": "ace851e967f67fae554ecc9cdd21974709a2b45e28345073bae74dcfed69afa6"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_path_flowers_transition_young_v1.mp3",
+      "bytes": 70149,
+      "sha256": "03cccbf16db558002927b2c9db59a6bcd2a0c2cda65f9139f71c31c25b5aa144"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_path_rain_transition_v1.mp3",
+      "bytes": 116685,
+      "sha256": "b322f9c5f1b3cb5c6e28d78cc4b5c5ff1be1190b22354a31acb9c296b23400c1"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_path_rain_transition_young_v1.mp3",
+      "bytes": 82413,
+      "sha256": "149fb4c9dfa13b25ad8ea9d608edd0586febb64ef53f74ff6264de1507d65a29"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q1_correct_v4.mp3",
+      "bytes": 54597,
+      "sha256": "6ee341cb7294abd67e184cb3a07f8204028a66e2ee7bad8ea17e84f273b463aa"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q1_help_v4.mp3",
+      "bytes": 46869,
+      "sha256": "a5154668234ab9fad502b02a3230c3100acb0d32f2d57e55d85a2b43221ac2b4"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q1_prompt_v4.mp3",
+      "bytes": 49005,
+      "sha256": "da64bbde93c5fdbdb4be3637572e35d0ecbf7a5a015636af4720410c416ebd65"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q1_prompt_young_v3.mp3",
+      "bytes": 42693,
+      "sha256": "9b395c87da9ee9ef55010a08c50ee3c68e84ca1496ac7c4adb7e9646a24b7d8f"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q2_correct_v4.mp3",
+      "bytes": 45453,
+      "sha256": "3e19347ca11b0cd156923ee22914cfe92ab2e9b98dcb0b7e8e995af2cd8b690b"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q2_help_v4.mp3",
+      "bytes": 52533,
+      "sha256": "81e25c05369d089a579b5a7e3af4d482083f612a596ac135764f056bd5e2b1f4"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q2_prompt_v4.mp3",
+      "bytes": 51861,
+      "sha256": "092a6f60f8573a94150af9713725d527583bad25720fc03c2c61e4c490687453"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q2_prompt_young_v3.mp3",
+      "bytes": 63501,
+      "sha256": "45b530622f16b8e8a5764584a08e682b04ed3034f3d741e4a9f80605dae1f230"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q3_correct_v4.mp3",
+      "bytes": 43749,
+      "sha256": "fc8076d04977a74d32af96f266a1ce3079e35427c9eae3cdb1dfbe6ceab43d22"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q3_help_v4.mp3",
+      "bytes": 54453,
+      "sha256": "379517a380bc0f13347944d7f71ff396259d8154ce58b84bb8508162f5d6ea8e"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q3_prompt_v4.mp3",
+      "bytes": 36045,
+      "sha256": "87b640102c1454a4bcd41288aa737b008c1b1bff54c2ed43d1dee5e9fa414601"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q3_prompt_young_v3.mp3",
+      "bytes": 32013,
+      "sha256": "b9c4a70e1c6fa1ef0b0a27ed66f0729d3f533640456e1524bbc60ad03242d3b1"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q4_correct_v4.mp3",
+      "bytes": 51501,
+      "sha256": "3db0b057b434dc9a13626b729bc82bbceeb210f989fe405c4d55ef2f69e62a02"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q4_help_v4.mp3",
+      "bytes": 53325,
+      "sha256": "a87a52b9130816ef77be78a64ee00b6ba56f40f55a89dcf67c4cfc4a420ea89a"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q4_prompt_v4.mp3",
+      "bytes": 64101,
+      "sha256": "cb1c0bb27b30513d889d2964d82aea56825ef4aef3dc4fa9d5d1b69179ff2b3d"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q4_prompt_young_v3.mp3",
+      "bytes": 56013,
+      "sha256": "9da2236b9b4ae2ee43e9995c8265e754d9ed15ade30f6764a3ff7b1c598a0ca7"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q5_correct_v4.mp3",
+      "bytes": 43485,
+      "sha256": "e16fa93b7c3f36314f39b718bf857308aae9829abe9b5081b5bb53b14197cd85"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q5_help_v4.mp3",
+      "bytes": 45381,
+      "sha256": "dc944666ebd4ca3c15c729bb3b0119713138a30aeff5dcd7c1d2bddc9eb289ce"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q5_prompt_v4.mp3",
+      "bytes": 34725,
+      "sha256": "f584c4ba6fef1fe14fe1c6558115e5e6e7eecbba5e24065e21d25cf10ab940d1"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_q5_prompt_young_v3.mp3",
+      "bytes": 34917,
+      "sha256": "bb3fec569ffa1305cb85156e113c80596b814a0b6a2df2de3d1832ee5a451535"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_quick_b2a_v4.mp3",
+      "bytes": 206387,
+      "sha256": "61278e7e0ec49597ef7a1daa6fa18011a0070ddefcfe867d6fc13a46413019c9"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_quick_b2a_young_v3.mp3",
+      "bytes": 156801,
+      "sha256": "60acd15783907cb5c831353f97937c6a3039a48f90fb5123e9d5799c1f146988"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_quick_b2b_v4.mp3",
+      "bytes": 198774,
+      "sha256": "8a285e90d95540c391f08ab85605d6450b10617e78b355eccfe3c9d24c7269e2"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_quick_b2b_young_v3.mp3",
+      "bytes": 150448,
+      "sha256": "02d3e3168d118585a87d9eb5381bca4b8a66eb5a081826118f34a84c4c0adf44"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_start_v11.mp3",
+      "bytes": 360389,
+      "sha256": "da376128c0ce6fe7234fa32cd853b7f3cca510a5b15720df3c5ddf5c36f40468"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_start_young_v6.mp3",
+      "bytes": 271973,
+      "sha256": "67b9a4cf2e236d8bbc0e90f215adcf80621221d915b4d0d662c1079e59166ff4"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_video_recap_v10.mp3",
+      "bytes": 194997,
+      "sha256": "5ad613f15660b8dac6ad9efbbe4fc37c0c1f0b5ffbdcebfa9feab2241fbf3aa3"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_middle_response_1_v1.mp3",
+      "bytes": 45333,
+      "sha256": "eaa59809817559e4292113a086d8b006e399977f1785240caa567662049305e6"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_middle_response_2_v1.mp3",
+      "bytes": 53085,
+      "sha256": "c024cbdf1798ded71d97cbea5b742fa1a01091acd95d2c22d41edc7ab2a67cdc"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_middle_v1.mp3",
+      "bytes": 99573,
+      "sha256": "0c1ef2db59b9cbc63f501e862b923d024d16f570c7fdf9186095d2ff2a8c4892"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_older_response_1_v1.mp3",
+      "bytes": 48573,
+      "sha256": "11cb7e1a84f2a2d503c183263d2313f8ef2806edba0018af69d48cf3f1dde766"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_older_response_2_v1.mp3",
+      "bytes": 44013,
+      "sha256": "c1e5b6c887d84e82372e2ec2e0832acb15ff6e0452bab517b9710df222b190e5"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_older_v1.mp3",
+      "bytes": 96957,
+      "sha256": "52a48577e4b666dae622173ab50c2099fff6cb6d86a99f0164f8e54b8d52b1bd"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_young_response_1_v1.mp3",
+      "bytes": 39069,
+      "sha256": "4d8dc4195d73657badafa92ba6f2b33284ec1db421b7ee55eef57645a8501442"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_young_response_2_v1.mp3",
+      "bytes": 39549,
+      "sha256": "67e476a9eebb304ad65748dd01fafac6bf056b7162fcf9da00a01521d1477dce"
+    },
+    {
+      "path": "assets/audio/parent-v4/dragon_wonder_young_v1.mp3",
+      "bytes": 74973,
+      "sha256": "9faef3cde82b3852d17d5e992774c2e2a791d9a59a6d22e631266abc68eb1e8c"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b1_context_choices_v9.mp3",
+      "bytes": 127821,
+      "sha256": "f989c81f435091ea943b728ceaa03bc1f8e9c1f15aac1766b2d1b43328799f15"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b1_context_v9.mp3",
+      "bytes": 187006,
+      "sha256": "7009e6591db706ea5be6aa6ed2bbf2b8fd481ed2d8fac124cc86ebb8fb5ac62b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b1_context_young_v4.mp3",
+      "bytes": 101921,
+      "sha256": "6bc63bf8cd74608a5cf44c8ecced3dab5eba1725dca7e488a9acfc3f58e11e22"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b1_v8.mp3",
+      "bytes": 197623,
+      "sha256": "7ce0b4a2bd5cffaf7c61dfee5f2ef028a2b47a5c820c4459456e7adcb9b31c91"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b1_young_v3.mp3",
+      "bytes": 154776,
+      "sha256": "3111f2b96939a716cdb8937c23dec871a4d046d85bd7db58c7031e90e7f8777b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2a_choices_v8.mp3",
+      "bytes": 114165,
+      "sha256": "79821388064b634ede99aaf8bb7d8b7d52737b140603f1228049d92c049f82d5"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2a_v8.mp3",
+      "bytes": 112831,
+      "sha256": "5cd2fea6a60d9fbcbad8739e88b1df19f9583e161d1b3f71d2c59705c230774b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2a_young_v3.mp3",
+      "bytes": 82164,
+      "sha256": "550d58747ca36f2851da9df3dfedbb8a0cd2042483d6378d6869c6728f6211d9"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2b_choices_v8.mp3",
+      "bytes": 99981,
+      "sha256": "b6fa354a8cbefa10fd10a5180053042479ed8688df5cdbd1c01ea175497bba78"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2b_v8.mp3",
+      "bytes": 137538,
+      "sha256": "889c2da9ec7e08abebaee7e65316f23bb534fdac62054a47c3dc7dced21b1dc7"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b2b_young_v3.mp3",
+      "bytes": 82863,
+      "sha256": "1c2cab21cfc5fc975d01fa3d1f98a69411c32ae69a18b4b458996533b72b1a8d"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b3_choices_v8.mp3",
+      "bytes": 103413,
+      "sha256": "d0964ed16e8219e6eceb20382e18d4d365fe3d43cc39531fcb887e7a794902b6"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b3_v8.mp3",
+      "bytes": 185884,
+      "sha256": "87513c60fe73fa36abe35d4060343ec007ac50a8f2115d6d69a1801314092b38"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b3_young_v3.mp3",
+      "bytes": 125812,
+      "sha256": "1cd27625a7d6667ace268c76e0cba7275bd7a39548cd3ecccf4f51f780b25300"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b4_choices_v8.mp3",
+      "bytes": 115821,
+      "sha256": "78ea97a4ec7fedfa73941e033c3b91243ce06d880dfdea2dc3c8ba2d876d1efd"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b4_v8.mp3",
+      "bytes": 209801,
+      "sha256": "6c48bbb5f78be821caca5b5f909a583a4f31c08154609ba99b54b79792677e50"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b4_young_v3.mp3",
+      "bytes": 128044,
+      "sha256": "454aa9c2ef9d8d24673e5a1f96e83818557a4f38ed17a93a3352bb79b46ab19c"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b5_choices_v8.mp3",
+      "bytes": 102525,
+      "sha256": "a13d0eec86db5a38109e3c6562023dcd9b2ee7e92dc17a1cf952e4b1c6cde043"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b5_v8.mp3",
+      "bytes": 158249,
+      "sha256": "089650e105f5d5ec4eeb84a89326bd5e81912101aa22f99bbb2b061d542aa13e"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b5_young_v3.mp3",
+      "bytes": 102897,
+      "sha256": "f875795c3ebfe50c5d7e1ab75cbfbdcb6d753f2d874d7f559467d5e7ada08a9c"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b6_choices_v8.mp3",
+      "bytes": 112893,
+      "sha256": "4ea5c25eb0fa5d98457b279ed5d9c005fb432aec52794f750adc218d815599e6"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b6_v8.mp3",
+      "bytes": 160936,
+      "sha256": "745febb54104770aa8a6a4c73c145c849dcf3a9d170bdc174d3882666f5a7dda"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_b6_young_v3.mp3",
+      "bytes": 93875,
+      "sha256": "db60bfa75e79306ce47dc8e3de49d198e4b7d28038a32ba615c8c41ee6db02b9"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_emo_excited.mp3",
+      "bytes": 44637,
+      "sha256": "bf71a8e072c4663dabb978b99d0d217593296b7fba3ee5516b8cf4400750eb5b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_emo_proud.mp3",
+      "bytes": 41757,
+      "sha256": "ce4401cf55d274f1a4cd01ad563c8fbf49a6736c1d782dfc341fc545d8c84187"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_emo_sleepy.mp3",
+      "bytes": 38517,
+      "sha256": "e942d973b34c3d89b69bc04fd4ea7ffde0d3c9b25141dd61d27a0e976991eb01"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_ending_v8.mp3",
+      "bytes": 192466,
+      "sha256": "6438a88bcfd5dabe3264675557d61c1c401cae6e67e34d8380008cb004b4a732"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_ending_young_v3.mp3",
+      "bytes": 127638,
+      "sha256": "61fbe1b475d117ba2ffba1a18920f61c3064e95076fed374044fcb7e0b7f3850"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_mission_1_v1.mp3",
+      "bytes": 46893,
+      "sha256": "5b9e0b46463ba8da91ee5af65ac1f16e8de139405814aad83aa8d1e2983d6e5e"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_mission_2_v1.mp3",
+      "bytes": 51117,
+      "sha256": "5e7b830dc8911c4d0597b8feeec9c8fc90bcf553db6ef94d4d048e951e392fd3"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_mission_3_v1.mp3",
+      "bytes": 29373,
+      "sha256": "ac8a8e24cc4c187fb950cdbc7a2d89ace50598f46f34cb4c955930e5ebdaf535"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_mission_choices_v1.mp3",
+      "bytes": 87765,
+      "sha256": "f81c6670a7660074cb0dd0daef5399fba8802f715a850947813f6998e5611ffb"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q1_correct_v4.mp3",
+      "bytes": 23181,
+      "sha256": "95fedf992912107ddb6e830cb17dd95ae89c575a8fd512223361d356808052bc"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q1_help_v4.mp3",
+      "bytes": 38205,
+      "sha256": "1b54c428f79116942f521918937b41a2ce9b9d62ac5bc481143a58a16ff48a24"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q1_prompt_v4.mp3",
+      "bytes": 19845,
+      "sha256": "a5494e82c0cb845996beedc04dcfeb5007d9ef041464fb57ae3b2126c2b67e5b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q1_prompt_young_v3.mp3",
+      "bytes": 21069,
+      "sha256": "5efcdbbf8932dac89be6fc4ebf4b85b97181379168b9c46628ea60099d4d9aea"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q2_correct_v4.mp3",
+      "bytes": 51549,
+      "sha256": "02e7490cc36c87cc1b205ffed254d9f2b01a3b50bf530928f4b14eac00358d2a"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q2_help_v4.mp3",
+      "bytes": 43437,
+      "sha256": "fe2c700582d7fcc6354e48743dccd9b50533e0785270e02bd8613ab94dd5b68d"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q2_prompt_v4.mp3",
+      "bytes": 53997,
+      "sha256": "66d1fe5664884fa57bfe69494c0a3978f670c2314f31fa7136e201f4913d32e3"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q2_prompt_young_v3.mp3",
+      "bytes": 57093,
+      "sha256": "58c509c0a29771272c975625a755dba8a7f84894daae6cda87e214f684587b86"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q3_correct_v4.mp3",
+      "bytes": 37869,
+      "sha256": "7113b50fa5cdcfd03e32e67b7eb02bbeba4eef1e99b767c971508390bd6f8b85"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q3_help_v4.mp3",
+      "bytes": 41277,
+      "sha256": "de7b1ae13be1e061d5299f661199d22179cf71301a0f172de57c063e1a9508f8"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q3_prompt_v4.mp3",
+      "bytes": 34605,
+      "sha256": "274625109c8ac89f24a863ee3b678218809f6b141fc1f2f6579c17d990b1b360"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q3_prompt_young_v3.mp3",
+      "bytes": 37221,
+      "sha256": "cecde2b4cfe5d1f54a48ba0af80466ba41c9d5efc1fa7c4783d7a2d2ff551ada"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q4_correct_v4.mp3",
+      "bytes": 47229,
+      "sha256": "ac28830fe62e6842ec72f7c6a79bc83f9698a2f967031b3ef911342d9c287437"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q4_help_v4.mp3",
+      "bytes": 43365,
+      "sha256": "0fd4c18f2050eabb50775866bcb91bd24825dd3407b1f4a28e1086e9ccbcd6dd"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q4_prompt_v4.mp3",
+      "bytes": 55125,
+      "sha256": "3f3cfafd688b7ccfe75e0da40697eca74e6c8c9a03835328f2109501f697db35"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q4_prompt_young_v3.mp3",
+      "bytes": 50277,
+      "sha256": "8998f906a4dd0116ef99f9c4dd6e1a0ce17d1581fbcf8c490785a17af7f19ac9"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q5_correct_v4.mp3",
+      "bytes": 33357,
+      "sha256": "6c33982f120c13a28920c8d71bc192e30e043773fde62ebac34b8e84fb2217fd"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q5_help_v4.mp3",
+      "bytes": 30765,
+      "sha256": "855475a3a7e7402a9b6244a21b4c11bedc0ae782848b4905c5f6934e8e653865"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q5_prompt_v4.mp3",
+      "bytes": 21117,
+      "sha256": "bab211ea923064a2c27439ec83fb265ecbc983bddb6483635405bc97a1dd316e"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_q5_prompt_young_v3.mp3",
+      "bytes": 20901,
+      "sha256": "7bd7f05c81e26a6f5b38459b7c90aa71e9c4aba5b58de93319fa4337ff96459f"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_quick_b2a_v3.mp3",
+      "bytes": 143963,
+      "sha256": "281c9fb6135355c3ab77d028dbbd19eb7f0c433079e51e68b97e05d2140fe876"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_quick_b2a_young_v2.mp3",
+      "bytes": 119417,
+      "sha256": "ff425fc2281ec7e5653f5f2902cab1b8c49a3c35a8a25400daf334158f52be43"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_quick_b2b_v3.mp3",
+      "bytes": 159301,
+      "sha256": "230d215d2b98aed768638a1ee40bff4fcc5a6c77c664f0a4e7258ba79d8f6100"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_quick_b2b_young_v2.mp3",
+      "bytes": 116103,
+      "sha256": "f66286942d6a915ad81e13c9842ae391c8a26d9c3082bb06258f5b86c40ba9b3"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_start_v8.mp3",
+      "bytes": 149416,
+      "sha256": "c0c721ed2c2a04770df0d7424e31aebd9394c678ff56daf6fd847e209d1ef07d"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_start_young_v3.mp3",
+      "bytes": 114339,
+      "sha256": "35acc3a0b318b520dfe7f9eb91ea251ad78b64e3befdf0eb168a4b53e32cf840"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_video_recap_v8.mp3",
+      "bytes": 182661,
+      "sha256": "3319d88d0748389ef83cf3df3e5a2514fe9da33f50e62dba71f7779add116d96"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_middle_response_1_v1.mp3",
+      "bytes": 31125,
+      "sha256": "dc2a33e746b0c9118fa1ab660d3db1de1572688594d1bffe02b5df8720df920a"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_middle_response_2_v1.mp3",
+      "bytes": 33165,
+      "sha256": "231b9bbe4d3c56e480448b0be583c8fdd3e6e6b76a65722422c7044f21e7cbd5"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_middle_v1.mp3",
+      "bytes": 91221,
+      "sha256": "cad960a8f7bbf94fbabfa3f51b18b37d46e4e4e69d43747be0395e9770c9ed4b"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_older_response_1_v1.mp3",
+      "bytes": 37677,
+      "sha256": "ded0d89fd50858cf6bad5d607b96ce26880afdcc82d9a1e07cedc2cd9a7bd6c3"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_older_response_2_v1.mp3",
+      "bytes": 37005,
+      "sha256": "206b7de057d6ff2d19720f3e533a36a4659623c3db6cf1360d88bcf67bc1113a"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_older_v1.mp3",
+      "bytes": 95277,
+      "sha256": "914e1e55e06f766c2e0bad8c9a38dcfed7e971a13e87bb8a197ed9b32f8804ab"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_young_response_1_v1.mp3",
+      "bytes": 31869,
+      "sha256": "51a644dcd02f847e2deaa306919afdfc4aefcb393414a8a41b639c33d4a23054"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_young_response_2_v1.mp3",
+      "bytes": 36165,
+      "sha256": "84deee568fb191bd32285d24edb40cc5ba77f5562b59f836c7ffbb9afb078e10"
+    },
+    {
+      "path": "assets/audio/parent-v4/forest_wonder_young_v1.mp3",
+      "bytes": 107565,
+      "sha256": "6fa159c328c68471b2557c010550d88d1ac5f19c4668deac1ebbfe9d9db70f6d"
+    },
+    {
+      "path": "assets/audio/parent-v4/library_choices_v3.mp3",
+      "bytes": 212085,
+      "sha256": "3dfa47c214719272c6821c4dc619c61bca5b0aea5fabffa189c08f8da429b3b7"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b1_context_choices_v8.mp3",
+      "bytes": 102189,
+      "sha256": "5f76b6557c5977dbe2cdce51b85332962758410a2aa614a5a23fa41d787462b6"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b1_context_v8.mp3",
+      "bytes": 185385,
+      "sha256": "ea09f1e9254ad593c6967191b80810b8c46cc1eea2a33f34d8665b4ea18cc980"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b1_context_young_v4.mp3",
+      "bytes": 126406,
+      "sha256": "52887d2023f1b6d811fbbc372448160cb4af560f07d4aed0225a69a6ec77631b"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b1_v8.mp3",
+      "bytes": 192079,
+      "sha256": "2d02b9662c9f6a85516ab19393c981d198fd25ce2afbb7e0dfea2e2e4d9fdbf2"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b1_young_v3.mp3",
+      "bytes": 143678,
+      "sha256": "45cccb8676fa9dcc62697eb5cb928602506297f8a2f9ef764119928f6274a318"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2a_choices_v8.mp3",
+      "bytes": 112437,
+      "sha256": "7d515c5a2dbbda5719b58717ace01879f8276b37e21c29620204f73a878a7014"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2a_v9.mp3",
+      "bytes": 144411,
+      "sha256": "ba88938ce2d335f8523ae6bfa09ce2578d2ebe3bf9c13ec28db39ed5a5eef7a3"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2a_young_v5.mp3",
+      "bytes": 107812,
+      "sha256": "f02f959ad873d8f0109b70c5a77f700cf178fecb9a3572711e78830f2dc55850"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2b_choices_v8.mp3",
+      "bytes": 105549,
+      "sha256": "69ffee017e9c4411be82b9143f260e2f2a8443532170012746b345e0b93bdeee"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2b_v8.mp3",
+      "bytes": 135758,
+      "sha256": "0b528c2e615886f95a2e179737da56df1b3f236a395f2c5a4a7184e01988c9d9"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b2b_young_v4.mp3",
+      "bytes": 109937,
+      "sha256": "0724b61f34de32cc3ffb4d5246a82eb9e52f33e14c50835fd05850229d0e6da9"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b3_choices_v7.mp3",
+      "bytes": 95493,
+      "sha256": "0d870a2cb7fd75c9c8813e616ee854be41494706ac17f713fd9cd7b7a13b320e"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b3_v7.mp3",
+      "bytes": 196314,
+      "sha256": "549315b895b220b237b5e8c2e52977b10479dcff1657fe464b9a0493506e3192"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b3_young_v3.mp3",
+      "bytes": 123448,
+      "sha256": "d6daf8d65866125de0eb4f60959e2f8acdb2f980e00ecd1082d06588799b9576"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b4_choices_v7.mp3",
+      "bytes": 107397,
+      "sha256": "5a1bc4a7afbd427f3a76442cc2f6b2515c73532a8184e14c5731b8aea97a0615"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b4_v7.mp3",
+      "bytes": 151796,
+      "sha256": "0c036edca253ccce23eda9f53df4b7b3ccc92dd063769f164a091efd3ac270e2"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b4_young_v3.mp3",
+      "bytes": 84267,
+      "sha256": "c1aab37b6f4e03ea3913434b8de7b7a5e4ea9f3723e7a0061fafd15a6dc96619"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b5_choices_v7.mp3",
+      "bytes": 111813,
+      "sha256": "3aca5205ed30b9ffe7139e08a7e982f789028c501f478da56c702cf024c927ee"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b5_v8.mp3",
+      "bytes": 173241,
+      "sha256": "cd4755c59c54c7667e5793038eed09881f4874882a66c821d60af77a61b3160f"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b5_young_v4.mp3",
+      "bytes": 115533,
+      "sha256": "ea38eae2712b45139f35adaa14e3337864bb34fd817a74dbd570775c2c861248"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b6_choices_v7.mp3",
+      "bytes": 113877,
+      "sha256": "a25d28ea1c8309f250a5e1731c133aa90a56230762600895224663a24df862c3"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b6_v7.mp3",
+      "bytes": 115431,
+      "sha256": "62fc4326000ad462ad2b3eac9ea3a90c8095bb4b489cb8c1587101c41d89ff5a"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_b6_young_v3.mp3",
+      "bytes": 81277,
+      "sha256": "651dbf2fba41f147877122dff50083185a8236e4878b0b10d68d4e0b87ce85df"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_emo_excited.mp3",
+      "bytes": 41229,
+      "sha256": "fd502878df823ac8e99436bb137d2c173260e7e7ca3bf515d6e12d0db67ecdde"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_emo_proud.mp3",
+      "bytes": 39357,
+      "sha256": "40d37ea0adc31cb4d4631567b8c087df09135113651d9f62161c5f5de4ceff31"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_emo_sleepy.mp3",
+      "bytes": 40749,
+      "sha256": "87e8d0fa0ffa381ea2b348223409bcd34b1c6cb1f55ec593c616e841c0a3374e"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_ending_v7.mp3",
+      "bytes": 174341,
+      "sha256": "f4c7b690c41802d82d5cbf830c4b32ba6309c513cfd22d1ae3132164e42f894b"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_ending_young_v3.mp3",
+      "bytes": 102086,
+      "sha256": "4f6a7bfd7605b9aeda17b1da6de2a59638d9932e500555396d01f250db47029c"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_mission_1_v1.mp3",
+      "bytes": 41853,
+      "sha256": "6558eefa6e6e81d0f8ee0c8b94d69992b037765603d0fc78dc254b443a02e812"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_mission_2_v1.mp3",
+      "bytes": 68565,
+      "sha256": "72cc14f418d7a501cff20f03580808d6f25cecd4e7682ac7bc72430959b375eb"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_mission_3_v1.mp3",
+      "bytes": 46557,
+      "sha256": "9ba329c1af37a7284eab495dff0dd7e2499bee150624e300a698dd4a71747686"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_mission_choices_v1.mp3",
+      "bytes": 92661,
+      "sha256": "4b1971693c2735d295356a4669acce7bf7ad900bef9d3a386cccdd60af49a01f"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q1_correct_v4.mp3",
+      "bytes": 21573,
+      "sha256": "97f0472dd3bbcda56f022dcafb733ee08a72189fc4e5f1e8e66543c59a80e033"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q1_help_v4.mp3",
+      "bytes": 17037,
+      "sha256": "ab5894e1aedfd3e8477c7b09330ddb52a31593275712e58c4609a7b78659bf3c"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q1_prompt_v4.mp3",
+      "bytes": 21789,
+      "sha256": "b70459ec89e4a04a684458bb2655b48201640649b7d54a22d2c996df39584a53"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q1_prompt_young_v3.mp3",
+      "bytes": 24285,
+      "sha256": "815913d190fd0ce0e0e927e0a8b760c5552f375b99e4516e34bb81317b83d12c"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q2_correct_v4.mp3",
+      "bytes": 44205,
+      "sha256": "e1c8c6396a37777cd0431fb34dfe5f3362c017b618f0274952f730b7d3bdfebf"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q2_help_v4.mp3",
+      "bytes": 54453,
+      "sha256": "cd90c8ec971ffc69953d566966905f8354fd46552d4940b93bef3700e742dd13"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q2_prompt_v4.mp3",
+      "bytes": 52821,
+      "sha256": "fbcc5bde314ccd0b027b596ebe358102e433edef8121f8b8ee458e301088744b"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q2_prompt_young_v3.mp3",
+      "bytes": 52101,
+      "sha256": "682d19970e0075fb82c8a541ea9900c72f57b39d66b2a1cdf90c38c75513a9ba"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q3_correct_v4.mp3",
+      "bytes": 35493,
+      "sha256": "a0522f7fca73af5bef09d210e0863664adf29e05f2e4cce41b608223b6cb18e5"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q3_help_v4.mp3",
+      "bytes": 33309,
+      "sha256": "9cbb3f20446b0b94da5429a3f10de06eead64c6c77061926bc9e4e4f234aa8ea"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q3_prompt_v4.mp3",
+      "bytes": 26493,
+      "sha256": "1194a53203be225d59abd01b9772b1dba51d9316a12a69c5e50bf49c52363f1e"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q3_prompt_young_v3.mp3",
+      "bytes": 28221,
+      "sha256": "a6bf72581fac6df1f381d3ec7db4816ab1516e3a18ca9162e8e8669b7a313c96"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q4_correct_v4.mp3",
+      "bytes": 45693,
+      "sha256": "ca6e381e2f4ef5ceaad9a1c5a3e6465d56470281102fe98d8306fddb6793f33e"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q4_help_v4.mp3",
+      "bytes": 67005,
+      "sha256": "8f4ac02831af98e47b7edc4339b5c4c0119dd8e88fdf92b8fca744e58ee3bc06"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q4_prompt_v4.mp3",
+      "bytes": 50877,
+      "sha256": "9408f2bd75a6a40d05ba338ecb19f736384e155a63178602c5b102a74654b813"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q4_prompt_young_v3.mp3",
+      "bytes": 45933,
+      "sha256": "834ca0917d66c61d7e766058163ecc4c0497efa587a490b8239b5296cd7f9ac8"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q5_correct_v4.mp3",
+      "bytes": 26325,
+      "sha256": "b2bbcaf298db8741a6da09e6594026e70e7ea6e7caa22a2edcbc1a1735d5fa06"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q5_help_v4.mp3",
+      "bytes": 30285,
+      "sha256": "b6294756d73430e0c38ab6244e63697409ce816cf33a5de0fe1214dffa11551b"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q5_prompt_v4.mp3",
+      "bytes": 18645,
+      "sha256": "5a575134edb9ac5ae5b36889684355deec7cd61581b5b2398aefff0e5ad18f62"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_q5_prompt_young_v3.mp3",
+      "bytes": 23013,
+      "sha256": "19e8ea12ef4f9a0bdf5dce13ddb9e53aebc4364d1dc82b75ef96ddcc800981ad"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_quick_b2a_v3.mp3",
+      "bytes": 140656,
+      "sha256": "daa485dd862d434bf0be99ad24c07146c1733b5afe6eead1f8ca62c2b305876e"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_quick_b2a_young_v2.mp3",
+      "bytes": 114044,
+      "sha256": "587753061a8b3eada7a6d2b873c55d55a7c9e28d15360f84a618e9b64b04c064"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_quick_b2b_v3.mp3",
+      "bytes": 153362,
+      "sha256": "ccfced5897c49668fbe375876bc61382fc4e8da45a88cfc95f01ff50b94d079b"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_quick_b2b_young_v2.mp3",
+      "bytes": 118432,
+      "sha256": "1233a34413fb518d03ceb863bdc9d735718a2c3e5f8eebe52cbc54963e2c7d49"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_start_v8.mp3",
+      "bytes": 157721,
+      "sha256": "628094b3f6ed7d4b1b9e3eb616dcfde8aca32f062a41e24cbd303fef2f248b09"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_start_young_v4.mp3",
+      "bytes": 134001,
+      "sha256": "2e6d08522b90bb6578f0da2853501d88aa4fbfb6b674baa8b46586c3265bbfea"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_video_recap_v7.mp3",
+      "bytes": 168909,
+      "sha256": "5c00de8b25133e98fa3774f666cc0ed6e23ad21ba18bd863d9cc92058fddaa54"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_middle_response_1_v1.mp3",
+      "bytes": 32565,
+      "sha256": "f3abfc8c3d347e00479c9f7a1b149cb20f0c7da1abb0ac8ea5576e0b3271c360"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_middle_response_2_v1.mp3",
+      "bytes": 46221,
+      "sha256": "6c356bb15ba1a28895c8206db320d113e471d314a4a01676903190345315e464"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_middle_v1.mp3",
+      "bytes": 99357,
+      "sha256": "5824920a81a3871d4766c176fa05d9c43c668636541c1db5e1450731d6311b6a"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_older_response_1_v1.mp3",
+      "bytes": 43845,
+      "sha256": "93d088fb1dd7c1a8803192139593bb685fe5793cf512a416cf0da78f6c6e735f"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_older_response_2_v1.mp3",
+      "bytes": 51237,
+      "sha256": "d3c43e04c0a924cbaaee9ec186424e34aea7e4f4a998a2758220384ec56f6ba1"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_older_v2.mp3",
+      "bytes": 112677,
+      "sha256": "19d61119d72db0600df685975edcce8ab5b2cc01da510a81d4f43297c7a640ae"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_young_response_1_v1.mp3",
+      "bytes": 33981,
+      "sha256": "8b939662e27fb26c926c1be670da5b88d30a60cd4d82339a716501bb1f3c31f4"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_young_response_2_v1.mp3",
+      "bytes": 52965,
+      "sha256": "e92919c540632aa040de9850c273cfb59a1b1d4efb5f57f8bc818dfc860ba200"
+    },
+    {
+      "path": "assets/audio/parent-v4/moon_wonder_young_v1.mp3",
+      "bytes": 86997,
+      "sha256": "0833e4cf46c41e8dc2b728751cae7fe0fb92afad27701a925445ce9282feebf0"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b1_context_choices_v9.mp3",
+      "bytes": 119109,
+      "sha256": "640dda19838201a9782d4213117a54aa45ec19ce5fccf8bb4b7ca70a7cb74200"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b1_context_v9.mp3",
+      "bytes": 210456,
+      "sha256": "96e58c1b0f120fd72bfa772cdaf2bafe1d579e2883920ac64b1489bed219b4c2"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b1_context_young_v3.mp3",
+      "bytes": 118391,
+      "sha256": "93b6a50960c584c2ddde8b86619f5f5a00c75ebfd9c8d1eef22306ff4088310a"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b1_v9.mp3",
+      "bytes": 192712,
+      "sha256": "d36ff473c95ac53ff1c915739e47596c65a7e0d8930c4a12dfc62ad8225edfe9"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b1_young_v3.mp3",
+      "bytes": 142138,
+      "sha256": "e37c14bd0af2bcc17544954572d757270af57e6818fc87b08be891c3d83f6487"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2a_choices_v9.mp3",
+      "bytes": 106821,
+      "sha256": "e16aa64d0b6ade320cbd009be0d41d9ebb6bd29d1f5cb6e3d3bf7c8e5f061d63"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2a_v9.mp3",
+      "bytes": 115794,
+      "sha256": "cbb346da7496545abcfa8582cdb3ce041fce8169a8a8b6f01af91f3f7003d65d"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2a_young_v3.mp3",
+      "bytes": 61449,
+      "sha256": "85cefda671b82a8612021215aa858e2baf4c15a1212dfc26f7355b7351513020"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2b_choices_v9.mp3",
+      "bytes": 105597,
+      "sha256": "f5fb22e3b7d9b3ab53203d5a06c5fc5ad29e198f6c45cd76921dc4453fd883ff"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2b_v9.mp3",
+      "bytes": 194971,
+      "sha256": "1cd63113eb644a8cc9fe399dd41598c8a356ba7501bb91b4bb93532e875b643b"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b2b_young_v4.mp3",
+      "bytes": 162237,
+      "sha256": "d9181dbb7ee10cdb3f16b54ac8a72dfcd5541fe9eb737b9642ca15fc72b47938"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3a_choices_v10.mp3",
+      "bytes": 90429,
+      "sha256": "2c272ec8564a92edcd84eba29db82c5f5aff1cf5714bf3503c1a795133ecc060"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3a_v10.mp3",
+      "bytes": 190668,
+      "sha256": "049e545612dcff80890f1c8d1717bc0fde8366548151ef80def147868758cfd8"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3a_young_v4.mp3",
+      "bytes": 113556,
+      "sha256": "eab27ef07e4de3978b7e1fdc3a1799fa58e197d8620b922165c6be22fdf55970"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3b_choices_v10.mp3",
+      "bytes": 99189,
+      "sha256": "6121cd025b206f7530ce494247d669f8da7fbca6600b09c9dd61fc9b3024693a"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3b_v10.mp3",
+      "bytes": 204494,
+      "sha256": "ef9ad8ffc07d6279ec7a227ffafa3c23be51627ed6091c2af013c1ca72a5b237"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b3b_young_v4.mp3",
+      "bytes": 130467,
+      "sha256": "8a914935bfccd2610e03299fbe601aa5f39ea96f5002a16b828d1a742513697d"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b4_choices_v10.mp3",
+      "bytes": 84525,
+      "sha256": "2a1978e974a1cecbb8828b808d20157ffefd9e45859481cf334edab7c95aea8a"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b4_v11.mp3",
+      "bytes": 205055,
+      "sha256": "f0295bbee59857fdfb5817445342065a8186525374b6b847e9781d105dd98c21"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_b4_young_v5.mp3",
+      "bytes": 142664,
+      "sha256": "862286160a0634cc6b9cd9218409d17916ba3fb71663d30e9c128a7446b286c4"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_emo_excited.mp3",
+      "bytes": 34845,
+      "sha256": "c50214c1a112d6c359837befa15201e0d99c6e12a9f8810c3e8e9fb621eee620"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_emo_proud.mp3",
+      "bytes": 44349,
+      "sha256": "97d05eff055c4e4490e49bc19768f362bf6f1506b0c56ec9990be34937ab07fc"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_emo_sleepy.mp3",
+      "bytes": 34221,
+      "sha256": "6d2545b0ce2b4d93f7fae30013c988ed481577b31f1ab609e6c0da985f7f54e5"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_ending_v11.mp3",
+      "bytes": 198662,
+      "sha256": "0d816cf172003bcfe18be98cf4c67623eeba386d50ae9342f083500cdd2f1450"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_ending_young_v4.mp3",
+      "bytes": 123796,
+      "sha256": "85f1b424f4d3e097b2d50bad427e8e9604ae82271139443ccee6dafbc039217b"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_mission_1_v1.mp3",
+      "bytes": 44013,
+      "sha256": "2a205ea270544c9b1203c28fd19c329c06ea41b7e4fb64f5807f1698640340df"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_mission_2_v1.mp3",
+      "bytes": 48621,
+      "sha256": "6d98982583f1e4d67c986747bbf6a94c64a74175adbed2c4365527043a682ac6"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_mission_3_v1.mp3",
+      "bytes": 46341,
+      "sha256": "08d5a225acd7e42fed696985cccbc072cf118f9e342b00acfcadba29b8836145"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_mission_choices_v1.mp3",
+      "bytes": 88101,
+      "sha256": "37c74da00c2100154f455206072098579c470bf9bb3a1e57aaf52df3aae023e6"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q1_correct_v4.mp3",
+      "bytes": 27309,
+      "sha256": "992a127b46c3a8b362a0729b9857b30088da524fd2aee4442d37e918e40702b9"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q1_help_v4.mp3",
+      "bytes": 44061,
+      "sha256": "17ccc0d3fdef124596008aa5d343158bbd7e0ce40849a182b60ce62096278020"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q1_prompt_v4.mp3",
+      "bytes": 27405,
+      "sha256": "72d03ac4a20ca9dc7faf13b7b18c9628c3260152d286f2f91a4fb89dc479bc98"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q1_prompt_young_v3.mp3",
+      "bytes": 25629,
+      "sha256": "9d4814bfa8fa1a554262fcca2e0d07e3df12238f20f7ef4d9eef03f7e3a1970e"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q2_correct_v4.mp3",
+      "bytes": 43101,
+      "sha256": "93fdca3a88a2f519c2abf5d188005ae92f3c0ae45d03ad2cbcf298b87484996e"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q2_help_v4.mp3",
+      "bytes": 46725,
+      "sha256": "c5600cc921053eea661f15c148439822f81d2222937e19271636273465c23aa7"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q2_prompt_v4.mp3",
+      "bytes": 59613,
+      "sha256": "eb5b65eca869e2a21b499957fe3c1042617cbcf41554166889b5e6ee6c97b1f5"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q2_prompt_young_v3.mp3",
+      "bytes": 58413,
+      "sha256": "a7e9b49ddf3f5c7952c9e55da0fb0288fb052bfb942f9a592bcc208b455d681e"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q3_correct_v4.mp3",
+      "bytes": 40101,
+      "sha256": "3598e46bc0ac973c3fdcca1c5c1b066ca291661bb0bbb84d0e1fba65d4954e71"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q3_help_v4.mp3",
+      "bytes": 47373,
+      "sha256": "65e77f876830ff7580c81311debce6fd49d6266a7d1fd181e174c16c877bb050"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q3_prompt_v4.mp3",
+      "bytes": 32709,
+      "sha256": "b7506fd2fd05529d04c685c75e6ea606170cbdea9312e004a269b482fb13dd55"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q3_prompt_young_v3.mp3",
+      "bytes": 34077,
+      "sha256": "74cc91cfadd8d9bd353b3b840422818ed1438fbae70f5cea909f19ebdd3e71c2"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q4_correct_v4.mp3",
+      "bytes": 43629,
+      "sha256": "bdf2304fa63e9c11c4fc0e5eb5fb3dfc9ecfb7b6fc9f969f11eb4ad114913d9e"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q4_help_v4.mp3",
+      "bytes": 58437,
+      "sha256": "458ce2af61b2ef95790a9aad00725f87ba6b55f1717bf231f3af476bdabb9200"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q4_prompt_v4.mp3",
+      "bytes": 51357,
+      "sha256": "17744a6232c8aec1de3473d046e063d11358810719ece697b26e12589a896173"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q4_prompt_young_v3.mp3",
+      "bytes": 50181,
+      "sha256": "ce04afa4aa22928f06e5e3047a9fb532b1f0440f10486da730423c53ff4cd68f"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q5_correct_v4.mp3",
+      "bytes": 25125,
+      "sha256": "622a98a2f77096b613e89f02dd7581d2021d65eda69a37fbc0bc34be074504e9"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q5_help_v4.mp3",
+      "bytes": 56685,
+      "sha256": "1404cf03251bca4b6aa8561ae17c5c91de1f08cb3638b13c1a45414250a9f556"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q5_prompt_v4.mp3",
+      "bytes": 36069,
+      "sha256": "90c76ce6abf2dd56ace530507d578a9b61d7c44d050fcc2afdb449c42b2150cc"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_q5_prompt_young_v3.mp3",
+      "bytes": 23709,
+      "sha256": "b3fd5bcde49f239724bc8e5924d5f60dc8ebcc153bc69f0586fc999cc4877ca7"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_quick_b2a_v3.mp3",
+      "bytes": 118580,
+      "sha256": "525db6a7ef8720d5d492805e0a9bb23c5487d074a0e2117752f5c76e7c384166"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_quick_b2a_young_v2.mp3",
+      "bytes": 83323,
+      "sha256": "11dd1abeca9161fcec0506b7141234ee22bf70a6f3fb3555d5f65f27a2b1778e"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_quick_b2b_v3.mp3",
+      "bytes": 146058,
+      "sha256": "b5a698d0c8147006c745e1816ea4ff39ec36a1c8b7f9d8378238ea3fd84fc5b1"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_quick_b2b_young_v2.mp3",
+      "bytes": 100561,
+      "sha256": "724cda3dd95bce9d3540cc9528d2d039f95051253bf7bafcbd7bb126f95be3ee"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_start_v9.mp3",
+      "bytes": 146751,
+      "sha256": "8dd5f5e4bd430b7bdff7401786f3377e984b21a0508edcebb90f4ca7fbb5efaf"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_start_young_v3.mp3",
+      "bytes": 103117,
+      "sha256": "79a83cebd36450f62851d314393bd71194bb81975442695de3917fe3d145b1ae"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_middle_response_1_v1.mp3",
+      "bytes": 25341,
+      "sha256": "710ade8788de74417cd814a85f432c1034e571e516cb2cf21efd242e880b785a"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_middle_response_2_v1.mp3",
+      "bytes": 43845,
+      "sha256": "79109c524d320b303d819a2bef9d9dab80bb2e017206661e721f7bbe58365974"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_middle_v1.mp3",
+      "bytes": 76821,
+      "sha256": "82259df85e22d902989a2022823331593d8a37188b1b8d5d22a6daeda6321cab"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_older_response_1_v1.mp3",
+      "bytes": 48429,
+      "sha256": "5be92f9bebe00fbb64a67b19676d3312b5ed39c2ecce5887a0cc18782375a634"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_older_response_2_v1.mp3",
+      "bytes": 43197,
+      "sha256": "f2cccd86596d794ee1103d39311583a64b1e14aae35e1fefc87777c797c0e27a"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_older_v1.mp3",
+      "bytes": 96285,
+      "sha256": "0d7d8e8896b623be2a2d61195c689e680a8ece6d25eb15ddaa7b7aef78cd11b4"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_young_response_1_v1.mp3",
+      "bytes": 33309,
+      "sha256": "ab91dacb0307706d54e2469f98c0b1ad4279fada842b916b492a269cc9698ee2"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_young_response_2_v1.mp3",
+      "bytes": 33573,
+      "sha256": "cbdc5f4ffc473f6e2e80b63ac4cb5fc14b7cb8f1fc6fa5525eb76e58eb470023"
+    },
+    {
+      "path": "assets/audio/parent-v4/ocean_wonder_young_v1.mp3",
+      "bytes": 94845,
+      "sha256": "79e704deda11a770e16a302f0da5a2ccbbaea08a18d986ec357a8a3e66312f9f"
+    },
+    {
+      "path": "assets/audio/parent-v4/question_summary_3_v1.mp3",
+      "bytes": 53109,
+      "sha256": "441a7165e41a01bb7ff8b2868f44ad4d4a9a5898bdb62c2361a362f4d773c5b4"
+    },
+    {
+      "path": "assets/audio/parent-v4/question_summary_5_v1.mp3",
+      "bytes": 49365,
+      "sha256": "f7c2fd1eb595385fa7a31af444bf7aa001703a447fc87cf36e1f5a34a933d13e"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b1_context_choices_v10.mp3",
+      "bytes": 120789,
+      "sha256": "30bce8cc2486e8b4fc98a4ab5353f72bc59137acfd12debee645a4494358ba23"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b1_context_v10.mp3",
+      "bytes": 183708,
+      "sha256": "d80158238738b57667371d89f74b81fa76fe09a9d9cb1022ec85f15191a18e8d"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b1_context_young_v4.mp3",
+      "bytes": 101089,
+      "sha256": "5f13d22aa9981a63568d1d981471cf75563c05685a9690047f9c77b381528a74"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b1_v9.mp3",
+      "bytes": 266129,
+      "sha256": "00658381625a0e727556fc963043b6a0ab9d8831e3d77007665c21833c5d20ab"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b1_young_v3.mp3",
+      "bytes": 153155,
+      "sha256": "47e5fc675ad3027981f7baa9b27594d36e01c3f32b8e3affb036bbf28e876634"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2a_choices_v9.mp3",
+      "bytes": 129549,
+      "sha256": "63937f28c8ebddea04c3fd69ff767003ce52e9999f583f6569ca26c20a834b18"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2a_v9.mp3",
+      "bytes": 119082,
+      "sha256": "12d3ad3e4f86b14273534ca3504e3fb144c9f43da856f45c91efced912f4611f"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2a_young_v3.mp3",
+      "bytes": 79316,
+      "sha256": "233d275f2a57a50ea2aafddc1d023084c6aea4643cbcc803aa9ddc284ae9efd8"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2b_choices_v10.mp3",
+      "bytes": 112029,
+      "sha256": "92e1207ea6b915470362c45586e72a2b545c8a1cbccd6f3ac8dae058166993d1"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2b_v10.mp3",
+      "bytes": 150701,
+      "sha256": "1dc9c41163696880ca2f76f994fcb02722b185ebd230e24fc6038cabbc5b76a7"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b2b_young_v4.mp3",
+      "bytes": 112029,
+      "sha256": "7aadd02500697c105591618f8feb35be8ebdf812f0c81ee69688e04ba7a9d115"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b3_choices_v9.mp3",
+      "bytes": 110205,
+      "sha256": "8b67f02957240e78fc2ea8e7a8ebf5b1b8706f40eadee65c0b11dd7119c1427e"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b3_v9.mp3",
+      "bytes": 153349,
+      "sha256": "35b382f8f8bfcb9e5adfb765b99de5bee76c21aac4a05d248616aa89e60c0b08"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b3_young_v3.mp3",
+      "bytes": 98660,
+      "sha256": "e1909cd76433fc7577c2cddb3646b08a9412c22a031ffd94d2dd10babf24bd7d"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b4_choices_v9.mp3",
+      "bytes": 99141,
+      "sha256": "b4efc9d016aa2fece7da777940d1c33116544dea03d48a28204f7349d1bfd995"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b4_v9.mp3",
+      "bytes": 211929,
+      "sha256": "f5be91596a9a86405186a71243bc5fb0d15c98c93364706a33e62e2dc53e0027"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b4_young_v3.mp3",
+      "bytes": 118067,
+      "sha256": "6f512bb8a0eac5c79eab3e1aa0e048cbf1b7bfe4f1640b7c75fb7ff4803661b0"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b5_choices_v9.mp3",
+      "bytes": 102045,
+      "sha256": "c0231eb72301da4d7f4d320a902194eea1f36d9683b5aba7176d1e130af1f0ef"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b5_v9.mp3",
+      "bytes": 168745,
+      "sha256": "401924ad32eb2823b9d91b68ad2bac4a513ae70244aab26c1767937154413d31"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b5_young_v3.mp3",
+      "bytes": 105797,
+      "sha256": "fd2b2e8f513f9e003c59f426c9592092567a713377b131c97684582f26373588"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b6_choices_v9.mp3",
+      "bytes": 113421,
+      "sha256": "39538d5c0dcc268db470585d4934dcde69e29dd0cd75f080c0a34d19c68cbaec"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b6_v9.mp3",
+      "bytes": 130157,
+      "sha256": "e9be18024091777601af1446ad371f9214d0edcc4fc94a98639aa1838c368405"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_b6_young_v3.mp3",
+      "bytes": 126668,
+      "sha256": "717e32b1a6a0d9d8c34638da0ea7d848fe770b38fc66a9dc91ce1f014b1fc8f9"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_emo_excited.mp3",
+      "bytes": 37797,
+      "sha256": "5926c8d7e6526838f26b9c672b2cd44f899a15fafd73d60c07e03cba05f23af4"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_emo_proud.mp3",
+      "bytes": 32733,
+      "sha256": "5b204182d453a8e6b827e3e439793b487d6c8177137df6fc44e5249d350e794c"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_emo_sleepy.mp3",
+      "bytes": 31101,
+      "sha256": "00636bc4ed3f19f222eec0e59f33f521eb60bd8314e846a84c67ff82653a0800"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_ending_sound_v9.mp3",
+      "bytes": 141303,
+      "sha256": "56a7052eff53cc84826dbc8317a16716a4e965c18c0927a7e0ff526e58e3d738"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_ending_sound_young_v3.mp3",
+      "bytes": 79408,
+      "sha256": "384e9663f32078e85160f9797c1cee54c082658ffd7ddd2b1ede178c1b6b2b28"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_ending_v9.mp3",
+      "bytes": 197959,
+      "sha256": "069e437f86b4914ed192beaf408254306c56db23b16d53e56dcfed232ccda4d3"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_ending_young_v3.mp3",
+      "bytes": 113883,
+      "sha256": "05bd79afe9396d91e887665cf4e6d8ec98fbccdfb50632b9cebf88b7584314ba"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_1_choices_v9.mp3",
+      "bytes": 123357,
+      "sha256": "5125c409eaae7ed6cfbd95546d576d1eec45ffa58689373e9fd6d782e0c16555"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_1_v9.mp3",
+      "bytes": 115531,
+      "sha256": "564482e2066ec6e6d8f1fb88eca73b9df2507ad9881233980d01d788741031ab"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_1_young_v3.mp3",
+      "bytes": 84980,
+      "sha256": "7284e5b5158003fc559d98ede60185f9abe9678c689905ffad81394c2db3dc8c"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_2_choices_v9.mp3",
+      "bytes": 114189,
+      "sha256": "db482c8f9bd692e960640dfb2402faa155a5c67ebeecdabc90eaf98461a15ecf"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_2_v9.mp3",
+      "bytes": 194823,
+      "sha256": "aae94496e396235137d5fe3438223e780ef695c9c0dc35792fc222f06081c222"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_2_young_v3.mp3",
+      "bytes": 106405,
+      "sha256": "8b72fd9553dceccf8ee143fd9ae1ea3900c25a572aa076b9eaed4aab07097c91"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_3_choices_v9.mp3",
+      "bytes": 118509,
+      "sha256": "de34b7c06de29de39011160328e4525d99702c930ceaf661f4c751cb5953c64b"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_3_v9.mp3",
+      "bytes": 129593,
+      "sha256": "8618bd6265a5219034e4f0aa9f8e04db6fbd9442e1d772ad362bf0fe0e679904"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_3_young_v3.mp3",
+      "bytes": 91968,
+      "sha256": "a565535cec9bf654c060b295533e9e02ac64f43b8fa24e7a3fa6eff8dead2f38"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_4_choices_v9.mp3",
+      "bytes": 108285,
+      "sha256": "b69bcbf701d6f63bf7fa37e98c1e093c5f1e8236a9adf524bbbb0717251c4106"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_4_v9.mp3",
+      "bytes": 136364,
+      "sha256": "1f4f3c6afdbe857b73396328ae7a92a955e3ff46ddb9daa07b06c8e58cd70d42"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_fork_sound_4_young_v3.mp3",
+      "bytes": 82845,
+      "sha256": "a045d38fe3baf91b3107cd113b2987f09cd54540bf8d06327e650920bb0bef3f"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_mission_1_v1.mp3",
+      "bytes": 99429,
+      "sha256": "0b74c1ae94f8817278f5a20ca8efb1f5f79e08b8c86cc7fd8520b60e7562cbc3"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_mission_2_v1.mp3",
+      "bytes": 51309,
+      "sha256": "0cc2410fb425e43c618f948241be765c97a40286b5a4061f89fecb414938e779"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_mission_3_v1.mp3",
+      "bytes": 49629,
+      "sha256": "d30fc0a947a2b7f81938fa3a0aef130388a20a586de877a92dbba14e50cc936c"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_mission_choices_v1.mp3",
+      "bytes": 93717,
+      "sha256": "f4b631d447a604bb4848a9c6bc24a2e7b3fe5113c9bd40e2586ddcb6a1d725d0"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q1_correct_v4.mp3",
+      "bytes": 27213,
+      "sha256": "d12d1e4e30b29633a78851725b934e6162a33775e0ad320c55527d9e0963e6d4"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q1_help_v4.mp3",
+      "bytes": 22845,
+      "sha256": "0b0b997df850521c9eb0ac48aed2ed61030fd308959b6119e6c575d49b77425e"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q1_prompt_v4.mp3",
+      "bytes": 22581,
+      "sha256": "5380d46b8081dd4cdaec1afb1bb99fbc3ee9e4ba66ee80c9eab54a1815d356c9"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q1_prompt_young_v3.mp3",
+      "bytes": 23133,
+      "sha256": "51ffc18fb7439d05b2766e6aaa8a833db371881a8f45ae816c09d1a62763581b"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q2_correct_v5.mp3",
+      "bytes": 54213,
+      "sha256": "e4e68f42c46abc687a88ca4fafe47098986218701bf7141888bfba584bdb5bd5"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q2_help_v5.mp3",
+      "bytes": 56061,
+      "sha256": "73f6c8908ad012d46760485dfd34f747b4d991a2b2a73977696afa3ae09e0962"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q2_prompt_v4.mp3",
+      "bytes": 59205,
+      "sha256": "0817b2c3e8c9b8d2d4b747ec23e04e6bb9a39c18748182fd860b476f8f695720"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q2_prompt_young_v3.mp3",
+      "bytes": 55005,
+      "sha256": "5cae3396910b17813ba868b98d248c205389191e1192118ac7bc23f276476019"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q3_correct_v4.mp3",
+      "bytes": 46965,
+      "sha256": "dc835a5d2e0856d4683d8c99f8344ca7f3a56448b654efda3d2ffddd86e50983"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q3_help_v4.mp3",
+      "bytes": 42573,
+      "sha256": "93f85982493c8a20194ea47bee0bda51943c4034c1394fa6ab759b759c4acea4"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q3_prompt_v4.mp3",
+      "bytes": 24309,
+      "sha256": "08a70b124133bec80974bd54b0e48be2c4ff78e2896fc70cb4b891e0d54605b5"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q3_prompt_young_v3.mp3",
+      "bytes": 27621,
+      "sha256": "8ec2b251de92aa4c224cbe6c83b2932549054f82c53311debc5b42aee6202bca"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q4_correct_v4.mp3",
+      "bytes": 44685,
+      "sha256": "d8639f58f54373d6a895e2c79196e6bb401a851e3a3063eb13f76f84681c1432"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q4_help_v4.mp3",
+      "bytes": 54501,
+      "sha256": "c6e0ad9be335775f6887687d953625eaa28cd1b2554e8c2db110896fb329c6be"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q4_prompt_v4.mp3",
+      "bytes": 55773,
+      "sha256": "a1682ba0317880df05176e7d37f4e1b9cb1f26cb8d973dd0949c921f1f1bfcf4"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q4_prompt_young_v3.mp3",
+      "bytes": 58581,
+      "sha256": "b395578c07c3f0893de025d07db56224fb0d5d18cfbfbcaef2c44eb1b4243296"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q5_correct_v4.mp3",
+      "bytes": 27525,
+      "sha256": "fc8a17d8353dc92968510d73a6d89d2632022f38a2a90664bdb869ed0215dcdb"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q5_help_v4.mp3",
+      "bytes": 22653,
+      "sha256": "78db5af6d24b4a2ce46e8b943010ece4c199740358b268b66ae34f68c6a597f4"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q5_prompt_v4.mp3",
+      "bytes": 26973,
+      "sha256": "83d2a1735a2b190b9281e8a86651590b36fa396d7ebc4a00e2c55d3613ec66df"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_q5_prompt_young_v3.mp3",
+      "bytes": 19101,
+      "sha256": "b92e2338cf2e4fdc3239d7ac3d2a1301ae09d2227e75d28ec247d091a3e514de"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_quick_b2a_v3.mp3",
+      "bytes": 135053,
+      "sha256": "e69aecd887e3c10e422a0f153e732998a0a20948fe3fd8b27de9ba4d0da343a3"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_quick_b2a_young_v2.mp3",
+      "bytes": 91104,
+      "sha256": "55ed26703a56e7d0c37f30abc6b7c0375f6a8a8bd50736fddca1d915965414f1"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_quick_b2b_v4.mp3",
+      "bytes": 135730,
+      "sha256": "f4bd9c4b70621824fafbc6648f75dae4bdff4078e98616a89a035af1aeae5b7c"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_quick_b2b_young_v3.mp3",
+      "bytes": 106509,
+      "sha256": "212e5d50fb4e0fc5b5d8b66f83314d3be819c39efcef351a2aca986cb543d4f1"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_start_v9.mp3",
+      "bytes": 147405,
+      "sha256": "f2f5628b1fcd59e364022c081a6ef672267711a9737a7647322b9b3edc123fe7"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_start_young_v3.mp3",
+      "bytes": 121592,
+      "sha256": "db877b2be5ba631b8f7998b29f3ca93beeec009e65bf9bf65e11bb42f4568ae2"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_video_recap_sound_v9.mp3",
+      "bytes": 156861,
+      "sha256": "6f113600dc1fc3db9929cf057a95dfb6a9ab4561e11a3bcfca304f34179bd0db"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_video_recap_v9.mp3",
+      "bytes": 158445,
+      "sha256": "6a6ea690d065fb4958257cac9d57adb7cfaf82dcc57884ea1858869522eba1d8"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_middle_response_1_v1.mp3",
+      "bytes": 46509,
+      "sha256": "5220bed06cffe2f7fa5681443670439a642ddfd13446be08036d1122559be70a"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_middle_response_2_v1.mp3",
+      "bytes": 40629,
+      "sha256": "64c8b6a2c862ab6d2a0a427f766775437c26271e488a3a46067a6edfdb5695b8"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_middle_v1.mp3",
+      "bytes": 116373,
+      "sha256": "dcfe8a501508570010325db329e3adf066b28c2ba85829a8ae0db7ea408f0029"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_older_response_1_v1.mp3",
+      "bytes": 65853,
+      "sha256": "179a290310c806921c92dc0bd3d9ea119f0e6ad733785122f1e86846f34dea11"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_older_response_2_v1.mp3",
+      "bytes": 64581,
+      "sha256": "b6f0c40c63463bce275412b3e079e205e9bbf810bd3d3e9d429d1d6f70c1892f"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_older_v1.mp3",
+      "bytes": 81597,
+      "sha256": "4c388da98e4750578b24951da9a99dceedf850138e8f873207e184fc1cc7aee1"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_young_response_1_v1.mp3",
+      "bytes": 44925,
+      "sha256": "e5c5bd727f75969dc4362708716447fea86cf7010479d56ac971b6fc76cfde12"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_young_response_2_v1.mp3",
+      "bytes": 45381,
+      "sha256": "ae44d054a620e3aa7481aab2b2d076e08a45a815b198ada2d714c54632ccdc6a"
+    },
+    {
+      "path": "assets/audio/parent-v4/robot_wonder_young_v1.mp3",
+      "bytes": 95733,
+      "sha256": "ca54dcf61feea995d7a37ee8dd367168fae22616353aacb8ac3203cfde23713c"
+    },
+    {
+      "path": "assets/audio/parent-v4/welcome_v1.mp3",
+      "bytes": 124564,
+      "sha256": "1474487036dacb4fef134af618000f04cf41c0d0ee792b6beecf2e01ee47fe17"
+    },
+    {
+      "path": "assets/img/cloud-book-v1.png",
+      "bytes": 2691872,
+      "sha256": "05c6ab923f59c9f842da274766d818a4c2e3ba5c6986900e33691fd57ec61a62"
+    },
+    {
+      "path": "assets/img/cloud-clues-appear-v1-book-v1.png",
+      "bytes": 3017728,
+      "sha256": "e29dece0bb1459fe424f4bd6741d7053af02163fe8e5f8cbcd71c6beb411938d"
+    },
+    {
+      "path": "assets/img/cloud-drops-book-v1.png",
+      "bytes": 2549173,
+      "sha256": "b227ff22410ae5aa78d05618acd7f551404d391c1ba3153be16ee4916c0bba6a"
+    },
+    {
+      "path": "assets/img/cloud-dry-garden-v1-book-v1.png",
+      "bytes": 2758128,
+      "sha256": "5959dbd73540f26c64ee6932709533a9255b7f1b1207ccfec81c6dda4bf15da5"
+    },
+    {
+      "path": "assets/img/cloud-facts-v2-book-v1.png",
+      "bytes": 2330522,
+      "sha256": "dd2b266afdb4bf280500e632d8e931b3c45fb3c9dd1f93f3518241a4384745a2"
+    },
+    {
+      "path": "assets/img/cloud-found-book-v1.png",
+      "bytes": 2424463,
+      "sha256": "606fde1c954b4397231c068c8bbbf6c73cf3a3bb0d2126674305076c927895d6"
+    },
+    {
+      "path": "assets/img/cloud-garden-v3-book-v1.png",
+      "bytes": 2774117,
+      "sha256": "9b83f5d11914b6d27776d656f19ec13910951f7f96222193449910d460e70396"
+    },
+    {
+      "path": "assets/img/cloud-opening-v3-book-v1.png",
+      "bytes": 2681775,
+      "sha256": "f573b00c33d2b6b6799aeaefb7b24c67e4315b0303de5956e02d32b6388aa7e0"
+    },
+    {
+      "path": "assets/img/cloud-quick-track-repair-v1-book-v1.png",
+      "bytes": 2767892,
+      "sha256": "89887e284ca43426d0238474c569047875ffb8a665c5ebd30dce6f8121e5d1de"
+    },
+    {
+      "path": "assets/img/cloud-rain-v3-book-v1.png",
+      "bytes": 2603067,
+      "sha256": "5b989a6334c6b15e2f8ebca64bc0cd7535a136d2438cf58b4e6a7cfd9cb4ff66"
+    },
+    {
+      "path": "assets/img/cloud-rainbow-ride-v3-book-v1.png",
+      "bytes": 2648385,
+      "sha256": "187d10705016f619f91728a8d4d5f7eeac4c1c995887e6db8337d00de8035102"
+    },
+    {
+      "path": "assets/img/cloud-repair-v3-book-v1.png",
+      "bytes": 2708826,
+      "sha256": "3d2218871c2415815d0d663b433528dfb6d1470a74811db07aaf9c23f655bfa8"
+    },
+    {
+      "path": "assets/img/cloud-stopped-promise-v1-book-v1.png",
+      "bytes": 2909486,
+      "sha256": "3cb0f1acc04d5c9a263c150d5f9d64412c6c316704cba5fd98d35082244f9b4b"
+    },
+    {
+      "path": "assets/img/cloud-sun-book-v1.png",
+      "bytes": 2564980,
+      "sha256": "5eac099f5f650bdbe984d97caa2eba50a2f31256a117267adaac764ad0947444"
+    },
+    {
+      "path": "assets/img/cloud-train-stop-v1-book-v1.png",
+      "bytes": 2710145,
+      "sha256": "103e6c5bafa39002e100bf1139be8953e882cc270a4bfb3bd8ed0fe8e6593c36"
+    },
+    {
+      "path": "assets/img/cloud-two-clues-v1-book-v1.png",
+      "bytes": 2958765,
+      "sha256": "b03dfedc9616fb6785e31117d0daf4193702dc971fe154d08793258b5098b866"
+    },
+    {
+      "path": "assets/img/dragon-birthday-suspense-v1-book-v1.png",
+      "bytes": 2628507,
+      "sha256": "ca923b72382222dafecfac841faec7d5624805266e4df3b4094b2c9a852d7519"
+    },
+    {
+      "path": "assets/img/dragon-birthday-v4-book-v1.png",
+      "bytes": 2855475,
+      "sha256": "d992881fd506bc5d485274474c4fa706ec06cd1747b7ac1d793ea91ae87c7bea"
+    },
+    {
+      "path": "assets/img/dragon-birthday-v5-book-v1.png",
+      "bytes": 2765957,
+      "sha256": "ffd6d19d9e34edb52d1a8b8b7e1e22f3442ecde43de11cda25c9e028e8b54b77"
+    },
+    {
+      "path": "assets/img/dragon-book-v1.png",
+      "bytes": 2368659,
+      "sha256": "c34de323b34ef3461cf3fef31cb62827c557efff0782d90c329a87b2a41b1368"
+    },
+    {
+      "path": "assets/img/dragon-brave-breath-v1-book-v1.png",
+      "bytes": 2454019,
+      "sha256": "953966943313bde49a4082dbb16631c61475ae3393a8777654a23bc8a8dea96b"
+    },
+    {
+      "path": "assets/img/dragon-flowers-book-v1.png",
+      "bytes": 2605696,
+      "sha256": "8fa6cdc29551f4df86890c49627b6fb72853cfe930d87906cc37058b128ef947"
+    },
+    {
+      "path": "assets/img/dragon-found-seed-v2-book-v1.png",
+      "bytes": 2715575,
+      "sha256": "02d94a7b36029bdd566f593d6c72d7a313ce77b7ba9f9a6b34cc0e50f415120f"
+    },
+    {
+      "path": "assets/img/dragon-grandma-gives-seed-v1-book-v1.png",
+      "bytes": 2719128,
+      "sha256": "a35a269a5695656509ccf970159d592a464cf3f234836a6401e4d98df72b1c4f"
+    },
+    {
+      "path": "assets/img/dragon-opening-v3-book-v1.png",
+      "bytes": 2741421,
+      "sha256": "ffdb1996ced6b4977cabd57c8d2ad8ec804d3b7d045827343eafd0a4784990d2"
+    },
+    {
+      "path": "assets/img/dragon-quick-found-seed-v1-book-v1.png",
+      "bytes": 2685044,
+      "sha256": "028f7200184dc2e295f46c266b30bf73916ed759cbc61a3fb030e2dfd8d28261"
+    },
+    {
+      "path": "assets/img/dragon-quick-rainbow-v1-book-v1.png",
+      "bytes": 2547882,
+      "sha256": "912e612ea79fcb5ba9bb4a34465074b7db7b72e786e1525fb5b3e21e5e4c51cb"
+    },
+    {
+      "path": "assets/img/dragon-rain-book-v1.png",
+      "bytes": 2685368,
+      "sha256": "7e364776738d328e41599669ffb5f3a5c3668ac2872ba971c745e81f395b9b6b"
+    },
+    {
+      "path": "assets/img/dragon-rainbow-v3-book-v1.png",
+      "bytes": 2588378,
+      "sha256": "b94ff2f5fb8b47bed0f1cf55d63cd4de689356030dc3adb94a769003af09616a"
+    },
+    {
+      "path": "assets/img/dragon-seed-gust-v1-book-v1.png",
+      "bytes": 2606742,
+      "sha256": "bf4fdd77d2096c5791cf47c315bbd00f197229862b93652876fc55c5118fd2b5"
+    },
+    {
+      "path": "assets/img/dragon-two-paths-v1-book-v1.png",
+      "bytes": 2613682,
+      "sha256": "834e4be971ab9f9ff183c0e02b24d33dc7bf729899e6f4926301cf34b6cf958d"
+    },
+    {
+      "path": "assets/img/dragon-warmth-safe-v4-book-v1.png",
+      "bytes": 2410866,
+      "sha256": "902f46a0fbee88d7e2bed6626a3cee0a00e508a690df58ba0a5a5e5703103d15"
+    },
+    {
+      "path": "assets/img/dragon-water-v3-book-v1.png",
+      "bytes": 2662126,
+      "sha256": "243caa859c1a7600cdee324ff73fe7016cbfb797ed8d9fb8fa034deb498f6e15"
+    },
+    {
+      "path": "assets/img/forest-acorn-exit-v1-book-v1.png",
+      "bytes": 2560882,
+      "sha256": "76571430daf76e6f17e3500efdad9a20f3c688ef4b1fa27185ad54872f4fbeb3"
+    },
+    {
+      "path": "assets/img/forest-bee-book-v1.png",
+      "bytes": 2633104,
+      "sha256": "de3e24117a0685698bb005923bcbb0e902bf678c0e9e85813faaebc5c52617e3"
+    },
+    {
+      "path": "assets/img/forest-bee-help-v3-book-v1.png",
+      "bytes": 2581404,
+      "sha256": "8b065de8ee07c280197ec410266abcea3eb56b8e7af81b150bb222f44a1047d6"
+    },
+    {
+      "path": "assets/img/forest-bird-book-v1.png",
+      "bytes": 2608714,
+      "sha256": "d9453733cdd91fec73e590955c2c54074db22513a28c53335b34f7df33a093f9"
+    },
+    {
+      "path": "assets/img/forest-book-v1.png",
+      "bytes": 2425961,
+      "sha256": "fe11f12d3d9ac8033d0aea2f5981fb46e9d433188cef02ecac890d639f958b6c"
+    },
+    {
+      "path": "assets/img/forest-bridge-v3-book-v1.png",
+      "bytes": 2591819,
+      "sha256": "92e647635ceac84a98a6b871b5f98845676bb9483ce9ddf9bf0965fbaeee8387"
+    },
+    {
+      "path": "assets/img/forest-clues-appear-v1-book-v1.png",
+      "bytes": 2703994,
+      "sha256": "5be9cef4d82590fd821367b6c5d33f6e972ac6364fd2c6f54afd75e377d9c63a"
+    },
+    {
+      "path": "assets/img/forest-dance-v3-book-v1.png",
+      "bytes": 2622699,
+      "sha256": "6d0dbe8c58a954ce48bdd16a651693a2ac4a3245754c12ecaec3119d080121a4"
+    },
+    {
+      "path": "assets/img/forest-drum-rollaway-v1-book-v1.png",
+      "bytes": 2664106,
+      "sha256": "2c0540d1cf9ec4bd359640d4394524723814501c4a2008e5f7ce9e92a276dd23"
+    },
+    {
+      "path": "assets/img/forest-facts-six-legs-v3-book-v1.png",
+      "bytes": 2684798,
+      "sha256": "221e6b05b63ec73df2bcd39d726cc7edf9652dda2f4a7b86665486ecd8bbd639"
+    },
+    {
+      "path": "assets/img/forest-nori-determination-v1-book-v1.png",
+      "bytes": 2672201,
+      "sha256": "6520000d548c6d49b726ac83cd2d6f22227af492f519d392ed62da11a897c063"
+    },
+    {
+      "path": "assets/img/forest-opening-v3-book-v1.png",
+      "bytes": 2661561,
+      "sha256": "bd1f4c9f705e834ff10c0e81bde1a959b9d5aa97d4a590662ede0af6c0c08072"
+    },
+    {
+      "path": "assets/img/forest-parade-v3-book-v1.png",
+      "bytes": 2770303,
+      "sha256": "9d4fb61282a6af794ced4426b0cf0b73275ef3559d005577531c789f495bf9c0"
+    },
+    {
+      "path": "assets/img/forest-quick-free-drum-v1-book-v1.png",
+      "bytes": 2918310,
+      "sha256": "e86fc6ecae176514366c6bf33d82f395e81c05bdedfd353a87422eaa3f2eb4a7"
+    },
+    {
+      "path": "assets/img/forest-sunrise-preparations-v1-book-v1.png",
+      "bytes": 2648538,
+      "sha256": "90e63cc99524406a369008ece24ecbb1c662a80ef14c4776daa0f828f90d438b"
+    },
+    {
+      "path": "assets/img/forest-two-clues-v1-book-v1.png",
+      "bytes": 2614577,
+      "sha256": "850f78bd8cd1bdbf628cedca633ec8b2ad2e001d61e8f72f19b42c7674c3d678"
+    },
+    {
+      "path": "assets/img/moon-book-v1.png",
+      "bytes": 2122715,
+      "sha256": "68ee3c93e283598b1f025b3e1c88b9ce54691bf8f005dc171e31a79b7a3d2ff8"
+    },
+    {
+      "path": "assets/img/moon-breeze-book-v1.png",
+      "bytes": 2536379,
+      "sha256": "c18066342cab8bb8bf919e222e93c5c00eb5f9b86344674a10efdc3c138701a9"
+    },
+    {
+      "path": "assets/img/moon-bridge-v3-book-v1.png",
+      "bytes": 2592479,
+      "sha256": "9e29a8fb51e1820cd92400d124224f5663bd0232578d6498cc394ca8b7274a4e"
+    },
+    {
+      "path": "assets/img/moon-clues-appear-v1-book-v1.png",
+      "bytes": 2433974,
+      "sha256": "0b85fc29957d3e03e998ee27540eb6cb2c7c9e4d3c816fec6616d05c3dd65dce"
+    },
+    {
+      "path": "assets/img/moon-dance-preparation-v1-book-v1.png",
+      "bytes": 2858277,
+      "sha256": "c64f2c63ea3e8ebd7777677cb358db55620215a0265d0143fd269461e842e109"
+    },
+    {
+      "path": "assets/img/moon-dance-v3-book-v1.png",
+      "bytes": 2586427,
+      "sha256": "fa955ff0a0c7be48c09ebe66bce029efd255d089a7096662ffa8079d7b83f440"
+    },
+    {
+      "path": "assets/img/moon-facts-v2-book-v1.png",
+      "bytes": 2731010,
+      "sha256": "0fe8aae34afaf5294aa71172076d4681c683b69cea33c35544d170d551fb3e7e"
+    },
+    {
+      "path": "assets/img/moon-first-sunbeam-v1-book-v1.png",
+      "bytes": 2562730,
+      "sha256": "eeabe58eeab00d0684f132f6ee56f71542cff8465851e22cf1e38c91ccce458d"
+    },
+    {
+      "path": "assets/img/moon-moonlight-book-v1.png",
+      "bytes": 2477805,
+      "sha256": "17a0317e7d97028beb9edfbc9a8c2542126fc80acf264a16e08e8225ac314666"
+    },
+    {
+      "path": "assets/img/moon-opening-v3-book-v1.png",
+      "bytes": 2917590,
+      "sha256": "6ced1aedbc71d7808014987eb81efc42aa00bbd7d61111c8082b02e03eefb8e2"
+    },
+    {
+      "path": "assets/img/moon-puff-missing-v1-book-v1.png",
+      "bytes": 2344480,
+      "sha256": "a8b31adfa5c7f68d93bc8bb320c93130c7b12767f7295566df358acb94112c4a"
+    },
+    {
+      "path": "assets/img/moon-quick-found-puff-v1-book-v1.png",
+      "bytes": 2824080,
+      "sha256": "d7f05d5f3fe096ed6dea0105f8a400bf1c56b26ffaebad5f6b01bba7ea71b715"
+    },
+    {
+      "path": "assets/img/moon-searching-clouds-v1-book-v1.png",
+      "bytes": 2660548,
+      "sha256": "0fa0d68004e7aba2ede1142cc2d2ffae80367bd78dc03f0b8f81feca8ca9df08"
+    },
+    {
+      "path": "assets/img/moon-shadow-v3-book-v1.png",
+      "bytes": 2654551,
+      "sha256": "383e9ca3dab3da136228ec320d11393834909d96a099d13c5b7770995b4dd462"
+    },
+    {
+      "path": "assets/img/moon-sunbeam-v3-book-v1.png",
+      "bytes": 2633471,
+      "sha256": "063b9aa99cff57ee4c66ad282d07291ef9d7c8fd515a84d5c771d8fbe3f3564c"
+    },
+    {
+      "path": "assets/img/moon-two-clues-v1-book-v1.png",
+      "bytes": 2238607,
+      "sha256": "14089f0ddee734ce1a438c9d21b07f18384e144e845d9fabf774cf831e1aa88d"
+    },
+    {
+      "path": "assets/img/ocean-paper-camouflage-v1.jpg",
+      "bytes": 108671,
+      "sha256": "213b9e212a2234373f3062e9e96869fae94ff917d59c96e07862fdf4e7bf284f"
+    },
+    {
+      "path": "assets/img/ocean-paper-choice-v1.jpg",
+      "bytes": 289728,
+      "sha256": "07d92fbb9bc7314a8be8ce3628d78b1ed274fd97e2cf7f4a17f616eaab0cd831"
+    },
+    {
+      "path": "assets/img/ocean-paper-imagines-two-choices-v1.png",
+      "bytes": 1998759,
+      "sha256": "6b6daab03bf8b32d54c53d75c1145176b017902f5f8570506666cc4ff6f1acf2"
+    },
+    {
+      "path": "assets/img/ocean-paper-kind-choice-v1.png",
+      "bytes": 2022158,
+      "sha256": "65b46e7b8f769ea4cdeb5eabe5e7dc59d0ab43d5ebddc129f02a31b95a9aee27"
+    },
+    {
+      "path": "assets/img/ocean-paper-peek-startle-v1.png",
+      "bytes": 2305646,
+      "sha256": "d234b7b29b90b42eb1ed92f4a9bc3f1737fc02788a4ff064afc99a3bde010a2a"
+    },
+    {
+      "path": "assets/img/ocean-paper-sandcastle-building-v1.png",
+      "bytes": 2312299,
+      "sha256": "b20a1f7d439b3d9b2459b8f1461ead26a13b50219d190e96fb5be8aff311424c"
+    },
+    {
+      "path": "assets/img/ocean-paper-sandcastle-two-treasures-v3.png",
+      "bytes": 2269863,
+      "sha256": "3376fcdf486fb8b942d0cf0422603967e048b6508cdd75087ceba062f603bc69"
+    },
+    {
+      "path": "assets/img/ocean-paper-secret-sparkle-v1.png",
+      "bytes": 1978596,
+      "sha256": "6ecc6d129e64492e56235e6e0110b9ce8c01ce6f48813cb4f3794d2035bd9edf"
+    },
+    {
+      "path": "assets/img/ocean-paper-start-v1.png",
+      "bytes": 1944413,
+      "sha256": "f504064a572cc703041303b0c96b0fc6efbf34750b8c34584ade566de7b3a46a"
+    },
+    {
+      "path": "assets/img/ocean-paper-treasure-chest-arrival-v1.png",
+      "bytes": 2141827,
+      "sha256": "1f0d7f3963cdda3c079626001cf499f954fadff2c0bbd97498a8f814462727e5"
+    },
+    {
+      "path": "assets/img/ocean-paper-tula-wakes-v1.png",
+      "bytes": 2040538,
+      "sha256": "f0d47a3c15c4f10aae5d0742a699e449373a49a6c539864c58af2fe890244593"
+    },
+    {
+      "path": "assets/img/ocean-paper-two-o-treasures-v2.png",
+      "bytes": 2197464,
+      "sha256": "b8ceeca0a79ce311b245a72fac88ae870edf74cafcebddc5da01ae70bca4ef15"
+    },
+    {
+      "path": "assets/img/ocean-paper-two-shells-v2.png",
+      "bytes": 2177856,
+      "sha256": "1f501e3e78a7d4c5b99b202bbe13a3f00ef08f9d2ae44e50ac0545745f7b6b13"
+    },
+    {
+      "path": "assets/img/ocean-paper-wait-v1.png",
+      "bytes": 1972552,
+      "sha256": "cb0e753e92e9e179cecb8262574d82ed042e750a0ea87f8b788cacd31201e52c"
+    },
+    {
+      "path": "assets/img/robot-band-ending-v1-book-v1.png",
+      "bytes": 2603033,
+      "sha256": "e9ea3f5da9bd95d9bcc6aa964b209dd1240e711a3568f768e80836232e858c22"
+    },
+    {
+      "path": "assets/img/robot-bell-in-pipe-v1-book-v1.png",
+      "bytes": 2532020,
+      "sha256": "3fe1c6a523c627a08c65555772bbf77214d1f71d67c1445c93518c2186d1b1ad"
+    },
+    {
+      "path": "assets/img/robot-bell-rollaway-v1-book-v1.png",
+      "bytes": 2297324,
+      "sha256": "6f41db53d649b47f0cd70b14e7d9d0634c3ae13a7d5a13fd1bc90ae5efc27474"
+    },
+    {
+      "path": "assets/img/robot-book-v1.png",
+      "bytes": 2488240,
+      "sha256": "893c15c645d15389671dd7fff6baac85d3d2bb00bf8f5602a2bf9a8df8ffd36e"
+    },
+    {
+      "path": "assets/img/robot-clapper-v3-book-v1.png",
+      "bytes": 2589285,
+      "sha256": "aaa43bd89ce0ff13dfc8aa237cdb1d6966cf049b9fabbe3299bd603600e1cb45"
+    },
+    {
+      "path": "assets/img/robot-clues-appear-v1-book-v1.png",
+      "bytes": 2406039,
+      "sha256": "64717c6ad6d2b982f5887bc082f1f0ea8e7cfb0aa64ca797347a84f841a82828"
+    },
+    {
+      "path": "assets/img/robot-concert-v3-book-v1.png",
+      "bytes": 2487277,
+      "sha256": "fbf0ccf4b4d704b8dc2c45de5472a73f7c44d848cc6a2037edfdd40a7a4e029a"
+    },
+    {
+      "path": "assets/img/robot-facts-v2-book-v1.png",
+      "bytes": 2626297,
+      "sha256": "48eb66de05ea9a871afba6ca3eaa8df87b479b81573f43c4b7aff39ef636b307"
+    },
+    {
+      "path": "assets/img/robot-magnet-nut-v1-book-v1.png",
+      "bytes": 2733014,
+      "sha256": "9fbe025d379b2285d7402c58911d73ecded9f581a9e51af6547f1197dbed6c64"
+    },
+    {
+      "path": "assets/img/robot-magnet-rescue-v3-book-v1.png",
+      "bytes": 2429107,
+      "sha256": "e82e3666f97b8b965f04f1358a2c276e23c78a3bce9c9836841d2e522a0b111f"
+    },
+    {
+      "path": "assets/img/robot-opening-v3-book-v1.png",
+      "bytes": 2505644,
+      "sha256": "2ff08945d718e34bd3be80fb6ce66b9f502aa10eafb97726c635ff657e09838a"
+    },
+    {
+      "path": "assets/img/robot-pip-offers-help-v1-book-v1.png",
+      "bytes": 2379265,
+      "sha256": "147063cf1320c1a9d4ef1fbd7db436f5a9982acbaf1bda569dac447a1129f31a"
+    },
+    {
+      "path": "assets/img/robot-quick-magnet-rescue-v1-book-v1.png",
+      "bytes": 2473253,
+      "sha256": "6479a6b1d2b8c8ef769f6238d4079490b07914d9724acc18048f4a3a55eaba2c"
+    },
+    {
+      "path": "assets/img/robot-quick-mouse-band-v1-book-v1.png",
+      "bytes": 2673979,
+      "sha256": "10299731b2418bf7826d219dab3b00f53f4f9a6d689e31a61c4132258f9eaa2d"
+    },
+    {
+      "path": "assets/img/robot-rehearsal-v3-book-v1.png",
+      "bytes": 2521835,
+      "sha256": "10d723c96ff7c405ef17be8c0762554c1f64b92c1758405c36225bde85da7c80"
+    },
+    {
+      "path": "assets/img/robot-sound-cellar-v1-book-v1.png",
+      "bytes": 2554143,
+      "sha256": "5bf10677d6a7f74d588f97e14a1a64e12799da509559319876b2fc3eec3e48c0"
+    },
+    {
+      "path": "assets/img/robot-sound-door-v1-book-v1.png",
+      "bytes": 2264041,
+      "sha256": "1bfac1ee4961d6ab6ed2cc9c999db392d21587c6c5223ac92fced994fc3910d5"
+    },
+    {
+      "path": "assets/img/robot-sound-invite-v1-book-v1.png",
+      "bytes": 2632705,
+      "sha256": "3b2f3b7471c533aa7327a4bce53cf04a8f87dbc5bd10d888b6d63c3c343def89"
+    },
+    {
+      "path": "assets/img/robot-sound-magnet-v1-book-v1.png",
+      "bytes": 2463584,
+      "sha256": "304f5b601346d5d6b67d5343ea9d6a338b4fd186776645eb72c8a522d8f84430"
+    },
+    {
+      "path": "assets/img/robot-sound-repair-v1-book-v1.png",
+      "bytes": 2787393,
+      "sha256": "2aa80b840d4e958c829458ad6bb50c101c9f2889ae63e4e66d980e9afb7252d1"
+    },
+    {
+      "path": "assets/img/robot-two-clues-v1-book-v1.png",
+      "bytes": 2508458,
+      "sha256": "1e05666a51a728f1adcd15cee0d8e8871c31634b317b237e6344490ba42072a2"
+    },
+    {
+      "path": "assets/img/robot-welcome-song-v1-book-v1.png",
+      "bytes": 2636279,
+      "sha256": "955d7f07d50b265007bd565836ea218ebde1af0107fd13c0257d0e6f3dcdd900"
+    },
+    {
+      "path": "assets/img/start.png",
+      "bytes": 2430920,
+      "sha256": "515fd2c92214fa484454e97cd270e4cbab00dfa3ef4177a94339bf8d91d60d6a"
+    },
+    {
+      "path": "assets/video/cloud-demo-v4.mp4",
+      "bytes": 10801025,
+      "sha256": "d12b0e294f07c02eecf3de147aecf02aad5826b50b8e620225168d272f86585f"
+    },
+    {
+      "path": "assets/video/dragon-demo-v4.mp4",
+      "bytes": 10489166,
+      "sha256": "e00497f8fb8f1dd12e75518d9f3dc48f5b0888c909cc031a787624bfa7fb06b4"
+    },
+    {
+      "path": "assets/video/forest-demo-v4.mp4",
+      "bytes": 12091251,
+      "sha256": "49e132aed8bd7008c097b06a91303ea548f4035cb9411c2a25bcd5c76bdc082c"
+    },
+    {
+      "path": "assets/video/moon-demo-v4.mp4",
+      "bytes": 9434848,
+      "sha256": "359e0ceeebd07aa449e04ce86de77b3f0296f85f79e003ecbff25993c9540d31"
+    },
+    {
+      "path": "assets/video/robot-band-demo-v1.mp4",
+      "bytes": 8734436,
+      "sha256": "80fcf71f4e7c03c15bf6c041bdb14eb6445452d0ff66edcd0f8c2ce0ceb4ca5a"
+    },
+    {
+      "path": "assets/video/robot-demo-v4.mp4",
+      "bytes": 8610845,
+      "sha256": "517da6c38399459236ed5d92729f9e3a3ed91f22c7cf56486eeff5eebf661f43"
+    },
+    {
+      "path": "content.js",
+      "bytes": 79726,
+      "sha256": "391e0b9eb5846434668eae5e479bb00c2792b84438d86390f8967a6b3f4bf7ec"
+    },
+    {
+      "path": "experience.js",
+      "bytes": 57634,
+      "sha256": "9f08aa5032927ccb02c555148d8780799280e2283c048b00c512ca01be875600"
+    },
+    {
+      "path": "index.html",
+      "bytes": 136928,
+      "sha256": "aaa5dddfa5e9a76be648eb795cec1da161ce00c63bbe11757463565d82c99f0f"
+    },
+    {
+      "path": "phone-preview.html",
+      "bytes": 2442,
+      "sha256": "f5f7375d1517763bad07abfa9dd9e3615757326f62c804577e0d1b41b329460f"
+    },
+    {
+      "path": "README-HOSTING.txt",
+      "bytes": 1031,
+      "sha256": "df856a21f78a625f5a2742d853dc1ef60dce2e26a90d24700ad4f9be5a7ed73e"
+    }
+  ]
+}
