@@ -123,7 +123,7 @@ const makeStory = config => {
     teaser: config.teaser,
     cover: config.cover,
     demoPath: config.demoPath,
-    start: withDelivery("start", { image: imageFor("start"), audio: audioFor("start"), sound: soundFor("start"), text: config.startText, buttonLabel: "Start our story" }),
+    start: withDelivery("start", { image: imageFor("start"), audio: audioFor("start"), sound: soundFor("start"), text: config.startText, buttonLabel: "Next page" }),
     nodes: {
       b1: withDelivery("b1", {
         image: config.incidentImage, audio: audioFor("b1"), sound: soundFor("b1"), text: config.incidentText,
